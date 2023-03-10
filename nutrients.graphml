@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="income" attr.type="long"/>
+<graph edgedefault="undirected"><node id="A">
+  <data key="d0">6</data>
+</node>
+<node id="carrots">
+  <data key="d0">31</data>
+</node>
+<node id="eggs">
+  <data key="d0">32</data>
+</node>
+<node id="fatty fish">
+  <data key="d0">17</data>
+</node>
+<node id="green leafy vegs">
+  <data key="d0">29</data>
+</node>
+<node id="liver">
+  <data key="d0">28</data>
+</node>
+<node id="milk">
+  <data key="d0">28</data>
+</node>
+<node id="tomatoes">
+  <data key="d0">26</data>
+</node>
+<node id="B12">
+  <data key="d0">1</data>
+</node>
+<node id="B6">
+  <data key="d0">1</data>
+</node>
+<node id="asparagus">
+  <data key="d0">36</data>
+</node>
+<node id="beans">
+  <data key="d0">16</data>
+</node>
+<node id="kidneys">
+  <data key="d0">27</data>
+</node>
+<node id="potatoes">
+  <data key="d0">35</data>
+</node>
+<node id="C">
+  <data key="d0">28</data>
+</node>
+<node id="pumpkins">
+  <data key="d0">24</data>
+</node>
+<node id="Ca">
+  <data key="d0">25</data>
+</node>
+<node id="broccoli">
+  <data key="d0">24</data>
+</node>
+<node id="cheese">
+  <data key="d0">8</data>
+</node>
+<node id="Cu">
+  <data key="d0">26</data>
+</node>
+<node id="nuts">
+  <data key="d0">8</data>
+</node>
+<node id="whole grains">
+  <data key="d0">31</data>
+</node>
+<node id="D">
+  <data key="d0">19</data>
+</node>
+<node id="mushrooms">
+  <data key="d0">8</data>
+</node>
+<node id="E">
+  <data key="d0">24</data>
+</node>
+<node id="seeds">
+  <data key="d0">34</data>
+</node>
+<node id="Mn">
+  <data key="d0">18</data>
+</node>
+<node id="legumes">
+  <data key="d0">28</data>
+</node>
+<node id="wheat">
+  <data key="d0">30</data>
+</node>
+<node id="Se">
+  <data key="d0">19</data>
+</node>
+<node id="Zn">
+  <data key="d0">33</data>
+</node>
+<node id="beef">
+  <data key="d0">27</data>
+</node>
+<node id="riboflavin">
+  <data key="d0">19</data>
+</node>
+<node id="niacin">
+  <data key="d0">5</data>
+</node>
+<node id="folates">
+  <data key="d0">33</data>
+</node>
+<node id="spinach">
+  <data key="d0">7</data>
+</node>
+<node id="poultry">
+  <data key="d0">28</data>
+</node>
+<node id="shellfish">
+  <data key="d0">25</data>
+</node>
+<node id="thiamin">
+  <data key="d0">21</data>
+</node>
+<node id="veg oils">
+  <data key="d0">36</data>
+</node>
+<node id="yogurt">
+  <data key="d0">0</data>
+</node>
+<edge source="A" target="carrots"/>
+<edge source="A" target="eggs"/>
+<edge source="A" target="fatty fish"/>
+<edge source="A" target="green leafy vegs"/>
+<edge source="A" target="liver"/>
+<edge source="A" target="milk"/>
+<edge source="A" target="tomatoes"/>
+<edge source="carrots" target="C"/>
+<edge source="eggs" target="B12"/>
+<edge source="eggs" target="riboflavin"/>
+<edge source="fatty fish" target="B6"/>
+<edge source="fatty fish" target="D"/>
+<edge source="fatty fish" target="B12"/>
+<edge source="fatty fish" target="niacin"/>
+<edge source="green leafy vegs" target="Mn"/>
+<edge source="green leafy vegs" target="C"/>
+<edge source="green leafy vegs" target="Ca"/>
+<edge source="green leafy vegs" target="E"/>
+<edge source="green leafy vegs" target="riboflavin"/>
+<edge source="liver" target="B6"/>
+<edge source="liver" target="Cu"/>
+<edge source="liver" target="folates"/>
+<edge source="liver" target="Se"/>
+<edge source="liver" target="Zn"/>
+<edge source="milk" target="B12"/>
+<edge source="milk" target="D"/>
+<edge source="milk" target="Ca"/>
+<edge source="milk" target="riboflavin"/>
+<edge source="tomatoes" target="C"/>
+<edge source="tomatoes" target="tomatoes"/>
+<edge source="B12" target="beef"/>
+<edge source="B12" target="poultry"/>
+<edge source="B6" target="asparagus"/>
+<edge source="B6" target="beans"/>
+<edge source="B6" target="kidneys"/>
+<edge source="B6" target="potatoes"/>
+<edge source="B6" target="beef"/>
+<edge source="B6" target="poultry"/>
+<edge source="asparagus" target="folates"/>
+<edge source="beans" target="Zn"/>
+<edge source="beans" target="Cu"/>
+<edge source="kidneys" target="Se"/>
+<edge source="kidneys" target="Zn"/>
+<edge source="kidneys" target="Cu"/>
+<edge source="potatoes" target="Zn"/>
+<edge source="potatoes" target="Cu"/>
+<edge source="C" target="pumpkins"/>
+<edge source="C" target="broccoli"/>
+<edge source="Ca" target="broccoli"/>
+<edge source="Ca" target="cheese"/>
+<edge source="Ca" target="yogurt"/>
+<edge source="Cu" target="nuts"/>
+<edge source="Cu" target="whole grains"/>
+<edge source="Cu" target="shellfish"/>
+<edge source="nuts" target="E"/>
+<edge source="nuts" target="Mn"/>
+<edge source="nuts" target="niacin"/>
+<edge source="nuts" target="Zn"/>
+<edge source="whole grains" target="Mn"/>
+<edge source="whole grains" target="niacin"/>
+<edge source="whole grains" target="thiamin"/>
+<edge source="D" target="mushrooms"/>
+<edge source="E" target="seeds"/>
+<edge source="E" target="veg oils"/>
+<edge source="seeds" target="Mn"/>
+<edge source="seeds" target="niacin"/>
+<edge source="Mn" target="legumes"/>
+<edge source="Mn" target="wheat"/>
+<edge source="legumes" target="riboflavin"/>
+<edge source="Se" target="shellfish"/>
+<edge source="Zn" target="beef"/>
+<edge source="Zn" target="poultry"/>
+<edge source="beef" target="riboflavin"/>
+<edge source="beef" target="niacin"/>
+<edge source="folates" target="spinach"/>
+</graph></graphml>
