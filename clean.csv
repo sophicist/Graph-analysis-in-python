@@ -1,0 +1,1805 @@
+,Firm ID,Sector type,File,For,Amount
+0,AA-BA-HE-1111,AE,Expense,Investments/assets,600
+1,AA-FE-ED-1009,A,Expense,Rent,15000
+2,AA-FE-ED-1050,A,Expense,Rent,15000
+3,AA-FE-HI-1051,A,Expense,Rent,24000
+4,AA-FE-HI-1154,Photo studio,Expense,Other cost,1500
+5,AA-FE-HI-2227,U-03,Expense,"Utility costs (electricity, water, …)",930
+6,AA-JS-SA-1282,AK-01,Expense,Wages/salaries workers,1000
+7,AA-KC-ED-1475,F,Expense,"Utility costs (electricity, water, …)",45
+8,AA-KC-ED-1515,F,Expense,Raw materials,30000
+9,AA-KC-ED-1592,S,Expense,"Utility costs (electricity, water, …)",200
+10,AA-KC-ED-1595,S,Expense,"Utility costs (electricity, water, …)",150
+11,AA-KC-ED-2385,X,Expense,Other cost,19
+12,AA-KE-ED-1005,A,Expense,Raw materials,6000
+13,AA-KE-ED-1025,A,Expense,Raw materials,22500
+14,AA-KE-ED-1036,A,Expense,Rent,300
+15,AA-KE-ED-1065,Wood and metal work,Expense,Fuel (for machines or vehicles),1000
+16,AA-KE-ED-1593,leather production,Expense,Raw materials,5000
+17,AA-KE-HI-1280,AK-01,Expense,Raw materials,100
+18,AA-KE-HI-1283,AK-01,Expense,Raw materials,500
+19,AA-KE-HI-1568,Husking and grinding,Expense,Rent,10000
+20,AA-KE-HI-2311,Clinic,Expense,"Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)",1600
+21,AA-KE-NA-1373,Printing and advertising,Expense,Raw materials,5000
+22,AA-KE-NA-1615,U,Expense,Raw materials,2100
+23,AA-KE-SA-1023,A,Expense,Raw materials,7840
+24,AA-KE-SA-1043,A,Expense,Raw materials,700
+25,AA-KE-SA-1056,Carpenter,Expense,Raw materials,3500
+26,AA-KG-SA-1012,D,Expense,Other cost,350
+27,AA-KG-SA-1020,A,Expense,Raw materials,800
+28,AA-KG-SA-1047,A,Expense,Raw materials,10000
+29,AA-KG-SA-1059,A,Expense,"Transport, freight and storage/warehousing",750
+30,AA-KG-SA-1068,A,Expense,Rent,5000
+31,AA-KG-SA-1083,D,Expense,Raw materials,8900
+32,AA-KG-SA-1087,A,Expense,Raw materials,20000
+33,AA-KG-SA-1312,D,Expense,Raw materials,10000
+34,AA-KG-SA-1315,D,Expense,Raw materials,25000
+35,AA-KG-SA-1317,D,Expense,Raw materials,16190
+36,AA-KG-SA-1336,D,Expense,Rent,1600
+37,AA-KG-SA-1342,D,Expense,Raw materials,100000
+38,AA-KG-SA-1343,D,Expense,"Non-staff labour (maintenance, casual labor etc...)",500
+39,AA-KG-SA-1376,EE-01,Expense,Raw materials,12000
+40,AA-KG-SA-1495,Garment production,Expense,Raw materials,6000
+41,AA-KS-NA-1069,A,Expense,Raw materials,2000
+42,AA-KS-NA-1086,A,Expense,Raw materials,19000
+43,AA-KS-NA-1132,AD,Expense,Raw materials,20000
+44,AA-KS-NA-1368,DD,Expense,"Utility costs (electricity, water, …)",700
+45,AA-KS-NA-1382,EE-01,Expense,Raw materials,12000
+46,AA-KS-NA-1383,EE-01,Expense,Rent,2800
+47,AA-KS-NA-1467,F,Expense,Raw materials,1200
+48,AA-KS-NA-1551,G,Expense,"Utility costs (electricity, water, …)",1000
+49,AA-KS-NA-1552,injera Production,Expense,Raw materials,4000
+50,AA-KS-NA-1561,G,Expense,"Utility costs (electricity, water, …)",250
+51,AA-KS-NA-1603,S,Expense,Raw materials,1300
+52,AA-KS-NA-2410,F,Expense,"Transport, freight and storage/warehousing",106
+53,AA-ME-HI-1013,Furniture,Expense,Raw materials,21000
+54,AA-ME-HI-1159,Printing and advertising,Expense,Fuel (for machines or vehicles),500
+55,AA-ME-HI-1185,AD,Expense,Raw materials,250000
+56,AA-ME-HI-1198,Printing and advertising,Expense,Raw materials,40000
+57,AA-ME-HI-1262,Machinery rent,Expense,Fuel (for machines or vehicles),800
+58,AA-ME-HI-1454,Garment,Expense,Other cost,2000
+59,AA-ME-HI-1466,Garment,Expense,Raw materials,86000
+60,AA-ME-HI-1598,Leather product Production,Expense,Raw materials,1000
+61,AA-ME-HI-1600,Leather product production,Expense,Other cost,3350
+62,AA-SC-ET-1410,Pottery Production Works,Expense,Raw materials,150
+63,AA-SC-ET-1463,F,Expense,"Utility costs (electricity, water, …)",500
+64,AA-SC-ET-1476,F,Expense,"Utility costs (electricity, water, …)",200
+65,AA-SC-ET-1486,F,Expense,"Transport, freight and storage/warehousing",500
+66,AA-SC-ET-1496,F,Expense,"Utility costs (electricity, water, …)",250
+67,AA-SC-ET-1497,F,Expense,Raw materials,3500
+68,AA-SC-ET-1519,F,Expense,"Utility costs (electricity, water, …)",1000
+69,AA-SC-ET-1611,F,Expense,"Utility costs (electricity, water, …)",200
+70,AA-SC-ET-1631,X,Expense,"Bank costs (account maintenance, interest payments is part of loan section)",5000
+71,AA-YA-ET-2414,DD,Expense,"Transport, freight and storage/warehousing",7200
+72,AA-YA-ET-2415,DD,Expense,"Utility costs (electricity, water, …)",322
+73,AA-YA-WN-2222,C-01,Expense,"Maintenance, parts (non-labour maintenance costs)",6000
+74,AD-AW-AM-0000,DD,Expense,Raw materials,6000
+75,AD-CE-TI-1663,A,Expense,Raw materials,40000
+76,AD-CE-TI-1719,AD,Expense,Raw materials,299000
+77,AD-CE-TI-1815,U-03,Expense,Raw materials,15000
+78,AD-CE-TI-1870,J-8,Expense,Raw materials,7676
+79,AD-CE-TI-1874,N,Expense,Raw materials,400
+80,AD-CE-TI-2190,U-03,Expense,Raw materials,1500
+81,AD-CE-TI-2234,U-03,Expense,Investments/assets,250
+82,AD-CN-CH-1683,A,Expense,Other significant expenses,3000
+83,AD-CN-KE-1684,A,Expense,Raw materials,5000
+84,AD-CN-KE-1686,A,Expense,Raw materials,1600
+85,AD-CN-KE-1790,E,Expense,Raw materials,1200
+86,AD-CN-KE-1804,DD,Expense,Raw materials,600
+87,AD-CN-KE-1811,DD,Expense,Raw materials,5000
+88,AD-CN-KE-1812,DD,Expense,Raw materials,800
+89,AD-CN-KE-1877,N,Expense,"Maintenance, parts (non-labour maintenance costs)",1400
+90,AD-CN-KE-1878,N,Expense,"Non-staff labour (maintenance, casual labor etc...)",17000
+91,AD-CW-CH-1633,U-03,Expense,Raw materials,1000
+92,AD-CW-CH-1666,A,Expense,Raw materials,11700
+93,AD-CW-CH-1765,D,Expense,House/rent,2000
+94,AD-CW-CH-1766,D,Expense,Raw materials,2000
+95,AD-CW-CH-1778,D,Expense,Other cost,3000
+96,AD-CW-CH-1817,EE-01,Expense,"Transport, freight and storage/warehousing",200
+97,AD-CW-CH-1904,U,Expense,School fees,1300
+98,AD-CW-CH-1905,U,Expense,Food at home,10000
+99,AD-CW-CH-2195,U-03,Expense,Wages/salaries workers,15000
+100,AD-MO-KE-2183,U-03,Expense,Raw materials,600
+101,AD-MO-TI-1862,N,Expense,"Transport, freight and storage/warehousing",300
+102,AD-NO-TI-1757,AK-01,Expense,"Transport, freight and storage/warehousing",200
+103,AD-NO-TI-1798,DD,Expense,Raw materials,4000
+104,AD-NO-TI-1800,DD,Expense,Raw materials,1800
+105,AD-NO-TI-1873,N,Expense,"Professional services (accountants, recruitment services, advisors, …)",400
+106,AD-SO-CH-2207,U-03,Expense,Raw materials,600
+107,AD-SO-CH-2210,U-03,Expense,Rent,12000
+108,AD-SO-KE-1646,A,Expense,Raw materials,3000
+109,AD-SO-KE-2222,U-03,Expense,"Utility costs (electricity, water, …)",2500
+110,AD-WE-CH-1858,H,Expense,Raw materials,7000
+111,AD-WE-CH-1859,AQ,Expense,Clothing and shoes,6000
+112,AD-WE-KE-1710,AD,Expense,Raw materials,895
+113,AD-WE-KE-1827,T,Expense,Rent,490
+114,AD-WE-KE-1832,T,Expense,Raw materials,1500
+115,DD-ET-1918,A,Expense,Raw materials,2000
+116,DD-ET-1920,A,Expense,Raw materials,400
+117,DD-ET-1930,AD,Expense,Raw materials,1950
+118,DD-ET-1947,AQ,Expense,Raw materials,1000
+119,DD-ET-1948,D,Expense,Raw materials,300
+120,DD-ET-1949,D,Expense,Raw materials,2565
+121,DD-ET-1951,D,Expense,Raw materials,370
+122,DD-ET-1956,DD,Expense,Wages/salaries workers,650
+123,DD-ET-1957,DD,Expense,Wages/salaries workers,3000
+124,DD-ET-1959,G,Expense,"Utility costs (electricity, water, …)",700
+125,DD-ET-1960,G,Expense,"Utility costs (electricity, water, …)",8500
+126,DD-ET-1967,G-03,Expense,Raw materials,600
+127,DD-ET-2246,U-03,Expense,"Maintenance, parts (non-labour maintenance costs)",200
+128,DD-ET-2332,V,Expense,"Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)",6050
+129,HR-AL-2007,A,Expense,Raw materials,12000
+130,HR-AL-2035,D,Expense,"Utility costs (electricity, water, …)",150
+131,HR-AL-2045,D,Expense,"Utility costs (electricity, water, …)",6500
+132,HR-AL-2059,E,Expense,Raw materials,20000
+133,HR-AL-2075,F-01,Expense,Raw materials,50000
+134,HR-AL-2090,F,Expense,Raw materials,40950
+135,HR-AL-2107,G,Expense,Wages/salaries workers,1500
+136,HR-AL-2115,G,Expense,"Transport, freight and storage/warehousing",17300
+137,HR-AL-2132,N,Expense,"Utility costs (electricity, water, …)",3400
+138,HR-AL-2135,N,Expense,"Utility costs (electricity, water, …)",10000
+139,HR-AL-2143,N,Expense,"Utility costs (electricity, water, …)",1300
+140,HR-AL-2151,N,Expense,"Utility costs (electricity, water, …)",3170
+141,HR-AL-2157,N,Expense,Rent,62000
+142,HR-AL-2169,X,Expense,Investments/assets,80
+143,HR-AL-2174,X,Expense,Rent,8000
+144,HR-DE-1995,F,Expense,Raw materials,3500
+145,HR-DE-1996,A,Expense,Rent,10500
+146,HR-DE-2001,G,Expense,Fuel (for machines or vehicles),1750
+147,HR-DE-2014,A,Expense,Raw materials,22000
+148,HR-DE-2021,AD,Expense,Other cost,6440
+149,HR-DE-2080,F,Expense,"Utility costs (electricity, water, …)",190
+150,HR-DE-2122,AQ,Expense,Fuel (for machines or vehicles),600
+151,HR-DE-2123,AQ,Expense,Other cost,260
+152,HR-DE-2127,M,Expense,Raw materials,350
+153,HR-DE-2128,M,Expense,Other cost,120
+154,HR-DE-2171,X,Expense,"Transport, freight and storage/warehousing",70
+155,HR-DE-2244,U,Expense,Investments/assets,1500
+156,AA-BA-HE-1111,AE,Income,Income Source 3,
+157,AA-FE-ED-1009,A,Income,Income Source 1,
+158,AA-FE-ED-1050,A,Income,Income Source 1,
+159,AA-FE-HI-1051,A,Income,Income Source 1,
+160,AA-FE-HI-1154,Photo studio,Income,Income Source 1,
+161,AA-FE-HI-2227,U-03,Income,Income Source 1,
+162,AA-JS-SA-1282,AK-01,Income,Income Source 1,
+163,AA-KC-ED-1475,F,Income,Income Source 1,
+164,AA-KC-ED-1515,F,Income,Income Source 1,
+165,AA-KC-ED-1592,S,Income,Income Source 1,
+166,AA-KC-ED-1595,S,Income,Income Source 1,
+167,AA-KC-ED-2385,X,Income,Income Source 1,
+168,AA-KE-ED-1005,A,Income,Income Source 1,
+169,AA-KE-ED-1025,A,Income,Income Source 1,
+170,AA-KE-ED-1036,A,Income,Income Source 1,
+171,AA-KE-ED-1065,Wood and metal work,Income,Income Source 1,
+172,AA-KE-ED-1593,leather production,Income,Income Source 1,
+173,AA-KE-HI-1280,AK-01,Income,Income Source 1,
+174,AA-KE-HI-1283,AK-01,Income,Income Source 1,
+175,AA-KE-HI-1568,Husking and grinding,Income,Income Source 1,
+176,AA-KE-HI-2311,Clinic,Income,Income Source 1,
+177,AA-KE-NA-1373,Printing and advertising,Income,Income Source 1,
+178,AA-KE-NA-1615,U,Income,Income Source 1,
+179,AA-KE-SA-1023,A,Income,Income Source 1,
+180,AA-KE-SA-1043,A,Income,Income Source 1,
+181,AA-KE-SA-1056,Carpenter,Income,Income Source 1,
+182,AA-KG-SA-1012,D,Income,Income Source 1,
+183,AA-KG-SA-1020,A,Income,Income Source 1,
+184,AA-KG-SA-1047,A,Income,Income Source 1,
+185,AA-KG-SA-1059,A,Income,Income Source 1,
+186,AA-KG-SA-1068,A,Income,Income Source 1,
+187,AA-KG-SA-1083,D,Income,Income Source 1,
+188,AA-KG-SA-1087,A,Income,Income Source 1,
+189,AA-KG-SA-1312,D,Income,Income Source 1,
+190,AA-KG-SA-1315,D,Income,Income Source 1,
+191,AA-KG-SA-1317,D,Income,Income Source 1,
+192,AA-KG-SA-1336,D,Income,Income Source 1,
+193,AA-KG-SA-1342,D,Income,Income Source 1,
+194,AA-KG-SA-1343,D,Income,Income Source 1,
+195,AA-KG-SA-1376,EE-01,Income,Income Source 1,
+196,AA-KG-SA-1495,Garment production,Income,Income Source 1,
+197,AA-KS-NA-1069,A,Income,Income Source 1,
+198,AA-KS-NA-1086,A,Income,Income Source 1,
+199,AA-KS-NA-1132,AD,Income,Income Source 1,
+200,AA-KS-NA-1368,DD,Income,Income Source 1,
+201,AA-KS-NA-1382,EE-01,Income,Income Source 1,
+202,AA-KS-NA-1383,EE-01,Income,Income Source 1,
+203,AA-KS-NA-1467,F,Income,Income Source 1,
+204,AA-KS-NA-1551,G,Income,Income Source 1,
+205,AA-KS-NA-1552,injera Production,Income,Income Source 1,
+206,AA-KS-NA-1561,G,Income,Income Source 1,
+207,AA-KS-NA-1603,S,Income,Income Source 1,
+208,AA-KS-NA-2410,F,Income,Income Source 1,
+209,AA-ME-HI-1013,Furniture,Income,Income Source 1,
+210,AA-ME-HI-1159,Printing and advertising,Income,Income Source 1,
+211,AA-ME-HI-1185,AD,Income,Income Source 1,
+212,AA-ME-HI-1262,Machinery rent,Income,Income Source 1,
+213,AA-ME-HI-1454,Garment,Income,Income Source 1,
+214,AA-ME-HI-1466,Garment,Income,Income Source 1,
+215,AA-ME-HI-1598,Leather product Production,Income,Income Source 1,
+216,AA-ME-HI-1600,Leather product production,Income,Income Source 1,
+217,AA-SC-ET-1410,Pottery Production Works,Income,Income Source 1,
+218,AA-SC-ET-1463,F,Income,Income Source 1,
+219,AA-SC-ET-1476,F,Income,Income Source 1,
+220,AA-SC-ET-1486,F,Income,Income Source 1,
+221,AA-SC-ET-1496,F,Income,Income Source 1,
+222,AA-SC-ET-1497,F,Income,Income Source 1,
+223,AA-SC-ET-1519,F,Income,Income Source 1,
+224,AA-SC-ET-1611,F,Income,Income Source 1,
+225,AA-SC-ET-1631,X,Income,Income Source 1,
+226,AA-YA-ET-2414,DD,Income,Income Source 1,
+227,AA-YA-ET-2415,DD,Income,Income Source 1,
+228,AA-YA-WN-2222,C-01,Income,Income Source 1,
+229,AD-AW-AM-0000,DD,Income,Income Source 1,
+230,AD-CE-TI-1663,A,Income,Income Source 1,
+231,AD-CE-TI-1719,AD,Income,Income Source 2,
+232,AD-CE-TI-1815,U-03,Income,Income Source 1,
+233,AD-CE-TI-1870,J-8,Income,Income Source 1,
+234,AD-CE-TI-1874,N,Income,Income Source 1,
+235,AD-CE-TI-2190,U-03,Income,Income Source 1,
+236,AD-CE-TI-2234,U-03,Income,Income Source 1,
+237,AD-CN-CH-1683,A,Income,Income Source 1,
+238,AD-CN-KE-1684,A,Income,Income Source 1,
+239,AD-CN-KE-1686,A,Income,Income Source 1,
+240,AD-CN-KE-1790,E,Income,Income Source 1,
+241,AD-CN-KE-1804,DD,Income,Income Source 1,
+242,AD-CN-KE-1811,DD,Income,Income Source 1,
+243,AD-CN-KE-1812,DD,Income,Income Source 1,
+244,AD-CN-KE-1877,N,Income,Income Source 1,
+245,AD-CN-KE-1878,N,Income,Income Source 1,
+246,AD-CW-CH-1633,U-03,Income,Income Source 1,
+247,AD-CW-CH-1666,A,Income,Income Source 1,
+248,AD-CW-CH-1765,D,Income,Income Source 1,
+249,AD-CW-CH-1766,D,Income,Income Source 1,
+250,AD-CW-CH-1778,D,Income,Income Source 1,
+251,AD-CW-CH-1817,EE-01,Income,Income Source 1,
+252,AD-CW-CH-1904,U,Income,Income Source 1,
+253,AD-CW-CH-1905,U,Income,Income Source 1,
+254,AD-CW-CH-2195,U-03,Income,Income Source 1,
+255,AD-MO-KE-2183,U-03,Income,Income Source 1,
+256,AD-MO-TI-1862,N,Income,Income Source 1,
+257,AD-NO-TI-1757,AK-01,Income,Income Source 1,
+258,AD-NO-TI-1798,DD,Income,Income Source 1,
+259,AD-NO-TI-1800,DD,Income,Income Source 1,
+260,AD-NO-TI-1873,N,Income,Income Source 1,
+261,AD-SO-CH-2207,U-03,Income,Income Source 1,
+262,AD-SO-CH-2210,U-03,Income,Income Source 1,
+263,AD-SO-KE-1646,A,Income,Income Source 1,
+264,AD-SO-KE-2222,U-03,Income,Income Source 1,
+265,AD-WE-CH-1858,H,Income,Income Source 1,
+266,AD-WE-CH-1859,AQ,Income,Income Source 1,
+267,AD-WE-KE-1710,AD,Income,Income Source 1,
+268,AD-WE-KE-1827,T,Income,Income Source 1,
+269,AD-WE-KE-1832,T,Income,Income Source 1,
+270,DD-ET-1918,A,Income,Income Source 1,
+271,DD-ET-1920,A,Income,Income Source 1,
+272,DD-ET-1930,AD,Income,Income Source 1,
+273,DD-ET-1947,AQ,Income,Income Source 1,
+274,DD-ET-1948,D,Income,Income Source 1,
+275,DD-ET-1949,D,Income,Income Source 1,
+276,DD-ET-1951,D,Income,Income Source 1,
+277,DD-ET-1956,DD,Income,Income Source 1,
+278,DD-ET-1957,DD,Income,Income Source 1,
+279,DD-ET-1959,G,Income,Income Source 1,
+280,DD-ET-1960,G,Income,Income Source 1,
+281,DD-ET-1967,G-03,Income,Income Source 1,
+282,DD-ET-2194,U-03,Income,Income Source 1,
+283,DD-ET-2246,U-03,Income,Income Source 1,
+284,DD-ET-2332,V,Income,Income Source 1,
+285,HR-AL-2007,A,Income,Income Source 1,
+286,HR-AL-2035,D,Income,Income Source 1,
+287,HR-AL-2045,D,Income,Income Source 1,
+288,HR-AL-2059,E,Income,Income Source 1,
+289,HR-AL-2075,F-01,Income,Income Source 1,
+290,HR-AL-2090,F,Income,Income Source 1,
+291,HR-AL-2107,G,Income,Income Source 1,
+292,HR-AL-2115,G,Income,Income Source 1,
+293,HR-AL-2132,N,Income,Income Source 1,
+294,HR-AL-2135,N,Income,Income Source 1,
+295,HR-AL-2143,N,Income,Income Source 1,
+296,HR-AL-2151,N,Income,Income Source 1,
+297,HR-AL-2157,N,Income,Income Source 1,
+298,HR-AL-2169,X,Income,Income Source 1,
+299,HR-AL-2174,X,Income,Income Source 1,
+300,HR-DE-1995,F,Income,Income Source 1,
+301,HR-DE-1996,A,Income,Income Source 1,
+302,HR-DE-2001,G,Income,Income Source 1,
+303,HR-DE-2014,A,Income,Income Source 1,
+304,HR-DE-2021,AD,Income,Income Source 1,
+305,HR-DE-2080,F,Income,Income Source 1,
+306,HR-DE-2122,AQ,Income,Income Source 1,
+307,HR-DE-2123,AQ,Income,Income Source 1,
+308,HR-DE-2127,M,Income,Income Source 1,
+309,HR-DE-2128,M,Income,Income Source 1,
+310,HR-DE-2171,X,Income,Income Source 1,
+311,HR-DE-2244,U,Income,Income Source 1,
+312,AA-FE-ED-1009,A,LoanTaken,Supplier,
+313,AA-FE-ED-1050,A,LoanTaken,Friends,
+314,AA-FE-HI-1051,A,LoanTaken,Friends,
+315,AA-FE-HI-2227,U-03,LoanTaken,Government bank,
+316,AA-JS-SA-1282,AK-01,LoanTaken,Commercial bank,
+317,AA-KC-ED-1515,F,LoanTaken,SACCO/Cooperative,
+318,AA-KC-ED-1592,S,LoanTaken,Commercial bank,
+319,AA-KC-ED-1595,S,LoanTaken,SACCO/Cooperative,
+320,AA-KE-ED-1005,A,LoanTaken,Supplier,
+321,AA-KE-ED-1025,A,LoanTaken,Friends,
+322,AA-KE-ED-1036,A,LoanTaken,Vendor,
+323,AA-KE-ED-1593,leather production,LoanTaken,Family,
+324,AA-KE-HI-1280,AK-01,LoanTaken,MFI,
+325,AA-KE-HI-1568,Husking and grinding,LoanTaken,Supplier,
+326,AA-KE-HI-2311,Clinic,LoanTaken,Supplier,
+327,AA-KE-NA-1615,U,LoanTaken,MFI,
+328,AA-KE-SA-1023,A,LoanTaken,MFI,
+329,AA-KG-SA-1020,A,LoanTaken,Other (specify),
+330,AA-KG-SA-1315,D,LoanTaken,Friends,
+331,AA-KG-SA-1342,D,LoanTaken,Other (specify),
+332,AA-KG-SA-1343,D,LoanTaken,"Merchandiser, incl. buy-now-pay-later",
+333,AA-KG-SA-1376,EE-01,LoanTaken,Other (specify),
+334,AA-KG-SA-1495,Garment production,LoanTaken,Deposit taking microfinance (MDI),
+335,AA-KS-NA-1069,A,LoanTaken,"Informal savings group (used for business, VSLA, Equb, Edir …)",
+336,AA-KS-NA-1086,A,LoanTaken,Friends,
+337,AA-KS-NA-1132,AD,LoanTaken,Family,
+338,AA-KS-NA-1368,DD,LoanTaken,Family,
+339,AA-KS-NA-1382,EE-01,LoanTaken,SACCO/Cooperative,
+340,AA-KS-NA-1383,EE-01,LoanTaken,SACCO/Cooperative,
+341,AA-KS-NA-1551,G,LoanTaken,Supplier,
+342,AA-KS-NA-1552,injera Production,LoanTaken,Supplier,
+343,AA-KS-NA-1561,G,LoanTaken,Family,
+344,AA-KS-NA-1603,S,LoanTaken,Deposit taking microfinance (MDI),
+345,AA-ME-HI-1013,Furniture,LoanTaken,MFI,
+346,AA-ME-HI-1159,Printing and advertising,LoanTaken,Commercial bank,
+347,AA-ME-HI-1198,Printing and advertising,LoanTaken,Friends,
+348,AA-ME-HI-1454,Garment,LoanTaken,Supplier,
+349,AA-ME-HI-1466,Garment,LoanTaken,Supplier,
+350,AA-ME-HI-1598,Leather product Production,LoanTaken,MFI,
+351,AA-ME-HI-1600,Leather product production,LoanTaken,Commercial bank,
+352,AA-SC-ET-1496,F,LoanTaken,SACCO/Cooperative,
+353,AA-SC-ET-1519,F,LoanTaken,SACCO/Cooperative,
+354,AA-SC-ET-1631,X,LoanTaken,SACCO/Cooperative,
+355,AA-YA-WN-2222,C-01,LoanTaken,SACCO/Cooperative,
+356,AD-AW-AM-0000,DD,LoanTaken,Friends,
+357,AD-CE-TI-1663,A,LoanTaken,Friends,
+358,AD-CE-TI-1719,AD,LoanTaken,Commercial bank,
+359,AD-CE-TI-1870,J-8,LoanTaken,Deposit taking microfinance (MDI),
+360,AD-CN-KE-1804,DD,LoanTaken,Commercial bank,
+361,AD-CW-CH-1666,A,LoanTaken,Family,
+362,AD-CW-CH-1817,EE-01,LoanTaken,Family,
+363,AD-CW-CH-1904,U,LoanTaken,MFI,
+364,AD-CW-CH-2195,U-03,LoanTaken,Friends,
+365,AD-MO-KE-2183,U-03,LoanTaken,Commercial bank,
+366,AD-SO-CH-2207,U-03,LoanTaken,Friends,
+367,AD-SO-KE-2222,U-03,LoanTaken,Family,
+368,DD-ET-1918,A,LoanTaken,MFI,
+369,DD-ET-1920,A,LoanTaken,Supplier,
+370,DD-ET-1930,AD,LoanTaken,Friends,
+371,DD-ET-1947,AQ,LoanTaken,Friends,
+372,DD-ET-1948,D,LoanTaken,"Informal savings group (used for business, VSLA, Equb, Edir …)",
+373,DD-ET-1949,D,LoanTaken,Government bank,
+374,DD-ET-1956,DD,LoanTaken,Deposit taking microfinance (MDI),
+375,DD-ET-1957,DD,LoanTaken,MFI,
+376,DD-ET-1959,G,LoanTaken,Vendor,
+377,DD-ET-1960,G,LoanTaken,Vendor,
+378,DD-ET-2332,V,LoanTaken,Family,
+379,HR-AL-2059,E,LoanTaken,Family,
+380,HR-AL-2090,F,LoanTaken,Vendor,
+381,HR-AL-2107,G,LoanTaken,Vendor,
+382,HR-AL-2115,G,LoanTaken,Friends,
+383,HR-AL-2151,N,LoanTaken,Vendor,
+384,HR-AL-2157,N,LoanTaken,Vendor,
+385,HR-DE-1996,A,LoanTaken,Commercial bank,
+386,HR-DE-2127,M,LoanTaken,Friends,
+387,HR-DE-2128,M,LoanTaken,Vendor,
+388,AA-BA-HE-1111,AE,LoanGiven,Friend,
+389,AA-FE-ED-1050,A,LoanGiven,Customer,
+390,AA-FE-HI-1051,A,LoanGiven,Customer,
+391,AA-FE-HI-2227,U-03,LoanGiven,Friend,
+392,AA-JS-SA-1282,AK-01,LoanGiven,Friend,
+393,AA-KC-ED-1592,S,LoanGiven,Customer,
+394,AA-KE-ED-1005,A,LoanGiven,Customer,
+395,AA-KE-ED-1036,A,LoanGiven,Customer,
+396,AA-KE-HI-1568,Husking and grinding,LoanGiven,Customer,
+397,AA-KE-NA-1373,Printing and advertising,LoanGiven,Customer,
+398,AA-KE-SA-1023,A,LoanGiven,Customer,
+399,AA-KE-SA-1056,Carpenter,LoanGiven,Customer,
+400,AA-KG-SA-1012,D,LoanGiven,Customer,
+401,AA-KG-SA-1068,A,LoanGiven,Friend,
+402,AA-KG-SA-1087,A,LoanGiven,Friend,
+403,AA-KG-SA-1315,D,LoanGiven,Friend,
+404,AA-KG-SA-1317,D,LoanGiven,Friend,
+405,AA-KG-SA-1376,EE-01,LoanGiven,Friend,
+406,AA-KG-SA-1495,Garment production,LoanGiven,Friend,
+407,AA-KS-NA-1086,A,LoanGiven,Customer,
+408,AA-KS-NA-1132,AD,LoanGiven,Family,
+409,AA-KS-NA-1383,EE-01,LoanGiven,Customer,
+410,AA-KS-NA-1561,G,LoanGiven,Family,
+411,AA-KS-NA-1603,S,LoanGiven,Customer,
+412,AA-KS-NA-2410,F,LoanGiven,Family,
+413,AA-ME-HI-1013,Furniture,LoanGiven,Employee,
+414,AA-ME-HI-1159,Printing and advertising,LoanGiven,Friend,
+415,AA-ME-HI-1185,AD,LoanGiven,Customer,
+416,AA-ME-HI-1198,Printing and advertising,LoanGiven,Friend,
+417,AA-ME-HI-1262,Machinery rent,LoanGiven,Customer,
+418,AA-ME-HI-1598,Leather product Production,LoanGiven,Customer,
+419,AA-ME-HI-1600,Leather product production,LoanGiven,Family,
+420,AA-SC-ET-1486,F,LoanGiven,Friend,
+421,AA-SC-ET-1611,F,LoanGiven,Customer,
+422,AA-YA-WN-2222,C-01,LoanGiven,Friend,
+423,AD-AW-AM-0000,DD,LoanGiven,Friend,
+424,AD-CE-TI-1719,AD,LoanGiven,Customer,
+425,AD-CE-TI-1815,U-03,LoanGiven,Family,
+426,AD-CE-TI-1874,N,LoanGiven,Friend,
+427,AD-CN-KE-1812,DD,LoanGiven,Customer,
+428,AD-CW-CH-1666,A,LoanGiven,Customer,
+429,AD-CW-CH-1765,D,LoanGiven,Customer,
+430,AD-CW-CH-1817,EE-01,LoanGiven,Customer,
+431,AD-CW-CH-1905,U,LoanGiven,Friend,
+432,AD-NO-TI-1757,AK-01,LoanGiven,Friend,
+433,AD-SO-CH-2207,U-03,LoanGiven,Customer,
+434,AD-SO-KE-1646,A,LoanGiven,Friend,
+435,AD-SO-KE-2222,U-03,LoanGiven,Employee,
+436,DD-ET-1918,A,LoanGiven,Customer,
+437,DD-ET-1920,A,LoanGiven,Customer,
+438,DD-ET-1930,AD,LoanGiven,Family,
+439,DD-ET-1947,AQ,LoanGiven,Customer,
+440,DD-ET-1948,D,LoanGiven,Friend,
+441,DD-ET-1949,D,LoanGiven,Customer,
+442,DD-ET-1956,DD,LoanGiven,Customer,
+443,DD-ET-1957,DD,LoanGiven,Customer,
+444,DD-ET-1959,G,LoanGiven,Customer,
+445,DD-ET-1960,G,LoanGiven,Family,
+446,DD-ET-1967,G-03,LoanGiven,Customer,
+447,DD-ET-2332,V,LoanGiven,Customer,
+448,HR-AL-2059,E,LoanGiven,Customer,
+449,HR-AL-2157,N,LoanGiven,Customer,
+450,HR-DE-2122,AQ,LoanGiven,Customer,
+451,AA-BA-HE-1111,AE,Expense,Investments/assets,
+452,AA-FE-ED-1009,A,Expense,Rent,
+453,AA-FE-ED-1050,A,Expense,Rent,
+454,AA-FE-HI-1051,A,Expense,Rent,
+455,AA-FE-HI-1154,Photo studio,Expense,Other cost,
+456,AA-FE-HI-2227,U-03,Expense,"Utility costs (electricity, water, …)",
+457,AA-JS-SA-1282,AK-01,Expense,Wages/salaries workers,
+458,AA-KC-ED-1475,F,Expense,"Utility costs (electricity, water, …)",
+459,AA-KC-ED-1515,F,Expense,Raw materials,
+460,AA-KC-ED-1592,S,Expense,"Utility costs (electricity, water, …)",
+461,AA-KC-ED-1595,S,Expense,"Utility costs (electricity, water, …)",
+462,AA-KC-ED-2385,X,Expense,Other cost,
+463,AA-KE-ED-1005,A,Expense,Raw materials,
+464,AA-KE-ED-1025,A,Expense,Raw materials,
+465,AA-KE-ED-1036,A,Expense,Rent,
+466,AA-KE-ED-1065,Wood and metal work,Expense,Fuel (for machines or vehicles),
+467,AA-KE-ED-1593,leather production,Expense,Raw materials,
+468,AA-KE-HI-1280,AK-01,Expense,Raw materials,
+469,AA-KE-HI-1283,AK-01,Expense,Raw materials,
+470,AA-KE-HI-1568,Husking and grinding,Expense,Rent,
+471,AA-KE-HI-2311,Clinic,Expense,"Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)",
+472,AA-KE-NA-1373,Printing and advertising,Expense,Raw materials,
+473,AA-KE-NA-1615,U,Expense,Raw materials,
+474,AA-KE-SA-1023,A,Expense,Raw materials,
+475,AA-KE-SA-1043,A,Expense,Raw materials,
+476,AA-KE-SA-1056,Carpenter,Expense,Raw materials,
+477,AA-KG-SA-1012,D,Expense,Other cost,
+478,AA-KG-SA-1020,A,Expense,Raw materials,
+479,AA-KG-SA-1047,A,Expense,Raw materials,
+480,AA-KG-SA-1059,A,Expense,"Transport, freight and storage/warehousing",
+481,AA-KG-SA-1068,A,Expense,Rent,
+482,AA-KG-SA-1083,D,Expense,Raw materials,
+483,AA-KG-SA-1087,A,Expense,Raw materials,
+484,AA-KG-SA-1312,D,Expense,Raw materials,
+485,AA-KG-SA-1315,D,Expense,Raw materials,
+486,AA-KG-SA-1317,D,Expense,Raw materials,
+487,AA-KG-SA-1336,D,Expense,Rent,
+488,AA-KG-SA-1342,D,Expense,Raw materials,
+489,AA-KG-SA-1343,D,Expense,"Non-staff labour (maintenance, casual labor etc...)",
+490,AA-KG-SA-1376,EE-01,Expense,Raw materials,
+491,AA-KG-SA-1495,Garment production,Expense,Raw materials,
+492,AA-KS-NA-1069,A,Expense,Raw materials,
+493,AA-KS-NA-1086,A,Expense,Raw materials,
+494,AA-KS-NA-1132,AD,Expense,Raw materials,
+495,AA-KS-NA-1368,DD,Expense,"Utility costs (electricity, water, …)",
+496,AA-KS-NA-1382,EE-01,Expense,Raw materials,
+497,AA-KS-NA-1383,EE-01,Expense,Rent,
+498,AA-KS-NA-1467,F,Expense,Raw materials,
+499,AA-KS-NA-1551,G,Expense,"Utility costs (electricity, water, …)",
+500,AA-KS-NA-1552,injera Production,Expense,Raw materials,
+501,AA-KS-NA-1561,G,Expense,"Utility costs (electricity, water, …)",
+502,AA-KS-NA-1603,S,Expense,Raw materials,
+503,AA-KS-NA-2410,F,Expense,"Transport, freight and storage/warehousing",
+504,AA-ME-HI-1013,Furniture,Expense,Raw materials,
+505,AA-ME-HI-1159,Printing and advertising,Expense,Fuel (for machines or vehicles),
+506,AA-ME-HI-1185,AD,Expense,Raw materials,
+507,AA-ME-HI-1198,Printing and advertising,Expense,Raw materials,
+508,AA-ME-HI-1262,Machinery rent,Expense,Fuel (for machines or vehicles),
+509,AA-ME-HI-1454,Garment,Expense,Other cost,
+510,AA-ME-HI-1466,Garment,Expense,Raw materials,
+511,AA-ME-HI-1598,Leather product Production,Expense,Raw materials,
+512,AA-ME-HI-1600,Leather product production,Expense,Other cost,
+513,AA-SC-ET-1410,Pottery Production Works,Expense,Raw materials,
+514,AA-SC-ET-1463,F,Expense,"Utility costs (electricity, water, …)",
+515,AA-SC-ET-1476,F,Expense,"Utility costs (electricity, water, …)",
+516,AA-SC-ET-1486,F,Expense,"Transport, freight and storage/warehousing",
+517,AA-SC-ET-1496,F,Expense,"Utility costs (electricity, water, …)",
+518,AA-SC-ET-1497,F,Expense,Raw materials,
+519,AA-SC-ET-1519,F,Expense,"Utility costs (electricity, water, …)",
+520,AA-SC-ET-1611,F,Expense,"Utility costs (electricity, water, …)",
+521,AA-SC-ET-1631,X,Expense,"Bank costs (account maintenance, interest payments is part of loan section)",
+522,AA-YA-ET-2414,DD,Expense,"Transport, freight and storage/warehousing",
+523,AA-YA-ET-2415,DD,Expense,"Utility costs (electricity, water, …)",
+524,AA-YA-WN-2222,C-01,Expense,"Maintenance, parts (non-labour maintenance costs)",
+525,AD-AW-AM-0000,DD,Expense,Raw materials,
+526,AD-CE-TI-1663,A,Expense,Raw materials,
+527,AD-CE-TI-1719,AD,Expense,Raw materials,
+528,AD-CE-TI-1815,U-03,Expense,Raw materials,
+529,AD-CE-TI-1870,J-8,Expense,Raw materials,
+530,AD-CE-TI-1874,N,Expense,Raw materials,
+531,AD-CE-TI-2190,U-03,Expense,Raw materials,
+532,AD-CE-TI-2234,U-03,Expense,Investments/assets,
+533,AD-CN-CH-1683,A,Expense,Other significant expenses,
+534,AD-CN-KE-1684,A,Expense,Raw materials,
+535,AD-CN-KE-1686,A,Expense,Raw materials,
+536,AD-CN-KE-1790,E,Expense,Raw materials,
+537,AD-CN-KE-1804,DD,Expense,Raw materials,
+538,AD-CN-KE-1811,DD,Expense,Raw materials,
+539,AD-CN-KE-1812,DD,Expense,Raw materials,
+540,AD-CN-KE-1877,N,Expense,"Maintenance, parts (non-labour maintenance costs)",
+541,AD-CN-KE-1878,N,Expense,"Non-staff labour (maintenance, casual labor etc...)",
+542,AD-CW-CH-1633,U-03,Expense,Raw materials,
+543,AD-CW-CH-1666,A,Expense,Raw materials,
+544,AD-CW-CH-1765,D,Expense,House/rent,
+545,AD-CW-CH-1766,D,Expense,Raw materials,
+546,AD-CW-CH-1778,D,Expense,Other cost,
+547,AD-CW-CH-1817,EE-01,Expense,"Transport, freight and storage/warehousing",
+548,AD-CW-CH-1904,U,Expense,School fees,
+549,AD-CW-CH-1905,U,Expense,Food at home,
+550,AD-CW-CH-2195,U-03,Expense,Wages/salaries workers,
+551,AD-MO-KE-2183,U-03,Expense,Raw materials,
+552,AD-MO-TI-1862,N,Expense,"Transport, freight and storage/warehousing",
+553,AD-NO-TI-1757,AK-01,Expense,"Transport, freight and storage/warehousing",
+554,AD-NO-TI-1798,DD,Expense,Raw materials,
+555,AD-NO-TI-1800,DD,Expense,Raw materials,
+556,AD-NO-TI-1873,N,Expense,"Professional services (accountants, recruitment services, advisors, …)",
+557,AD-SO-CH-2207,U-03,Expense,Raw materials,
+558,AD-SO-CH-2210,U-03,Expense,Rent,
+559,AD-SO-KE-1646,A,Expense,Raw materials,
+560,AD-SO-KE-2222,U-03,Expense,"Utility costs (electricity, water, …)",
+561,AD-WE-CH-1858,H,Expense,Raw materials,
+562,AD-WE-CH-1859,AQ,Expense,Clothing and shoes,
+563,AD-WE-KE-1710,AD,Expense,Raw materials,
+564,AD-WE-KE-1827,T,Expense,Rent,
+565,AD-WE-KE-1832,T,Expense,Raw materials,
+566,DD-ET-1918,A,Expense,Raw materials,
+567,DD-ET-1920,A,Expense,Raw materials,
+568,DD-ET-1930,AD,Expense,Raw materials,
+569,DD-ET-1947,AQ,Expense,Raw materials,
+570,DD-ET-1948,D,Expense,Raw materials,
+571,DD-ET-1949,D,Expense,Raw materials,
+572,DD-ET-1951,D,Expense,Raw materials,
+573,DD-ET-1956,DD,Expense,Wages/salaries workers,
+574,DD-ET-1957,DD,Expense,Wages/salaries workers,
+575,DD-ET-1959,G,Expense,"Utility costs (electricity, water, …)",
+576,DD-ET-1960,G,Expense,"Utility costs (electricity, water, …)",
+577,DD-ET-1967,G-03,Expense,Raw materials,
+578,DD-ET-2246,U-03,Expense,"Maintenance, parts (non-labour maintenance costs)",
+579,DD-ET-2332,V,Expense,"Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)",
+580,HR-AL-2007,A,Expense,Raw materials,
+581,HR-AL-2035,D,Expense,"Utility costs (electricity, water, …)",
+582,HR-AL-2045,D,Expense,"Utility costs (electricity, water, …)",
+583,HR-AL-2059,E,Expense,Raw materials,
+584,HR-AL-2075,F-01,Expense,Raw materials,
+585,HR-AL-2090,F,Expense,Raw materials,
+586,HR-AL-2107,G,Expense,Wages/salaries workers,
+587,HR-AL-2115,G,Expense,"Transport, freight and storage/warehousing",
+588,HR-AL-2132,N,Expense,"Utility costs (electricity, water, …)",
+589,HR-AL-2135,N,Expense,"Utility costs (electricity, water, …)",
+590,HR-AL-2143,N,Expense,"Utility costs (electricity, water, …)",
+591,HR-AL-2151,N,Expense,"Utility costs (electricity, water, …)",
+592,HR-AL-2157,N,Expense,Rent,
+593,HR-AL-2169,X,Expense,Investments/assets,
+594,HR-AL-2174,X,Expense,Rent,
+595,HR-DE-1995,F,Expense,Raw materials,
+596,HR-DE-1996,A,Expense,Rent,
+597,HR-DE-2001,G,Expense,Fuel (for machines or vehicles),
+598,HR-DE-2014,A,Expense,Raw materials,
+599,HR-DE-2021,AD,Expense,Other cost,
+600,HR-DE-2080,F,Expense,"Utility costs (electricity, water, …)",
+601,HR-DE-2122,AQ,Expense,Fuel (for machines or vehicles),
+602,HR-DE-2123,AQ,Expense,Other cost,
+603,HR-DE-2127,M,Expense,Raw materials,
+604,HR-DE-2128,M,Expense,Other cost,
+605,HR-DE-2171,X,Expense,"Transport, freight and storage/warehousing",
+606,HR-DE-2244,U,Expense,Investments/assets,
+607,AA-BA-HE-1111,AE,Income,Income Source 3,370
+608,AA-FE-ED-1009,A,Income,Income Source 1,25000
+609,AA-FE-ED-1050,A,Income,Income Source 1,30000
+610,AA-FE-HI-1051,A,Income,Income Source 1,11000
+611,AA-FE-HI-1154,Photo studio,Income,Income Source 1,600
+612,AA-FE-HI-2227,U-03,Income,Income Source 1,500
+613,AA-JS-SA-1282,AK-01,Income,Income Source 1,2300
+614,AA-KC-ED-1475,F,Income,Income Source 1,2000
+615,AA-KC-ED-1515,F,Income,Income Source 1,70000
+616,AA-KC-ED-1592,S,Income,Income Source 1,4500
+617,AA-KC-ED-1595,S,Income,Income Source 1,30000
+618,AA-KC-ED-2385,X,Income,Income Source 1,23000
+619,AA-KE-ED-1005,A,Income,Income Source 1,14330
+620,AA-KE-ED-1025,A,Income,Income Source 1,12000
+621,AA-KE-ED-1036,A,Income,Income Source 1,15000
+622,AA-KE-ED-1065,Wood and metal work,Income,Income Source 1,30000
+623,AA-KE-ED-1593,leather production,Income,Income Source 1,3000
+624,AA-KE-HI-1280,AK-01,Income,Income Source 1,960
+625,AA-KE-HI-1283,AK-01,Income,Income Source 1,7000
+626,AA-KE-HI-1568,Husking and grinding,Income,Income Source 1,5000
+627,AA-KE-HI-2311,Clinic,Income,Income Source 1,15000
+628,AA-KE-NA-1373,Printing and advertising,Income,Income Source 1,240
+629,AA-KE-NA-1615,U,Income,Income Source 1,980
+630,AA-KE-SA-1023,A,Income,Income Source 1,16100
+631,AA-KE-SA-1043,A,Income,Income Source 1,9450
+632,AA-KE-SA-1056,Carpenter,Income,Income Source 1,160000
+633,AA-KG-SA-1012,D,Income,Income Source 1,1000
+634,AA-KG-SA-1020,A,Income,Income Source 1,1200
+635,AA-KG-SA-1047,A,Income,Income Source 1,3000
+636,AA-KG-SA-1059,A,Income,Income Source 1,3000
+637,AA-KG-SA-1068,A,Income,Income Source 1,5000
+638,AA-KG-SA-1083,D,Income,Income Source 1,9000
+639,AA-KG-SA-1087,A,Income,Income Source 1,2000
+640,AA-KG-SA-1312,D,Income,Income Source 1,10000
+641,AA-KG-SA-1315,D,Income,Income Source 1,829221
+642,AA-KG-SA-1317,D,Income,Income Source 1,33200
+643,AA-KG-SA-1336,D,Income,Income Source 1,15000
+644,AA-KG-SA-1342,D,Income,Income Source 1,349000
+645,AA-KG-SA-1343,D,Income,Income Source 1,3000
+646,AA-KG-SA-1376,EE-01,Income,Income Source 1,88720
+647,AA-KG-SA-1495,Garment production,Income,Income Source 1,7000
+648,AA-KS-NA-1069,A,Income,Income Source 1,2000
+649,AA-KS-NA-1086,A,Income,Income Source 1,32000
+650,AA-KS-NA-1132,AD,Income,Income Source 1,8065
+651,AA-KS-NA-1368,DD,Income,Income Source 1,9000
+652,AA-KS-NA-1382,EE-01,Income,Income Source 1,7200
+653,AA-KS-NA-1383,EE-01,Income,Income Source 1,13816
+654,AA-KS-NA-1467,F,Income,Income Source 1,100000
+655,AA-KS-NA-1551,G,Income,Income Source 1,1250
+656,AA-KS-NA-1552,injera Production,Income,Income Source 1,600
+657,AA-KS-NA-1561,G,Income,Income Source 1,660
+658,AA-KS-NA-1603,S,Income,Income Source 1,520
+659,AA-KS-NA-2410,F,Income,Income Source 1,17500
+660,AA-ME-HI-1013,Furniture,Income,Income Source 1,31000
+661,AA-ME-HI-1159,Printing and advertising,Income,Income Source 1,4035
+662,AA-ME-HI-1185,AD,Income,Income Source 1,8000
+663,AA-ME-HI-1262,Machinery rent,Income,Income Source 1,2000
+664,AA-ME-HI-1454,Garment,Income,Income Source 1,20000
+665,AA-ME-HI-1466,Garment,Income,Income Source 1,76000
+666,AA-ME-HI-1598,Leather product Production,Income,Income Source 1,500
+667,AA-ME-HI-1600,Leather product production,Income,Income Source 1,12546
+668,AA-SC-ET-1410,Pottery Production Works,Income,Income Source 1,1200
+669,AA-SC-ET-1463,F,Income,Income Source 1,5000
+670,AA-SC-ET-1476,F,Income,Income Source 1,2500
+671,AA-SC-ET-1486,F,Income,Income Source 1,1350
+672,AA-SC-ET-1496,F,Income,Income Source 1,27000
+673,AA-SC-ET-1497,F,Income,Income Source 1,3100
+674,AA-SC-ET-1519,F,Income,Income Source 1,4500
+675,AA-SC-ET-1611,F,Income,Income Source 1,6000
+676,AA-SC-ET-1631,X,Income,Income Source 1,7000
+677,AA-YA-ET-2414,DD,Income,Income Source 1,3879
+678,AA-YA-ET-2415,DD,Income,Income Source 1,4750
+679,AA-YA-WN-2222,C-01,Income,Income Source 1,17412
+680,AD-AW-AM-0000,DD,Income,Income Source 1,2000
+681,AD-CE-TI-1663,A,Income,Income Source 1,50000
+682,AD-CE-TI-1719,AD,Income,Income Source 2,49220
+683,AD-CE-TI-1815,U-03,Income,Income Source 1,1000
+684,AD-CE-TI-1870,J-8,Income,Income Source 1,5000
+685,AD-CE-TI-1874,N,Income,Income Source 1,1000
+686,AD-CE-TI-2190,U-03,Income,Income Source 1,4000
+687,AD-CE-TI-2234,U-03,Income,Income Source 1,1000
+688,AD-CN-CH-1683,A,Income,Income Source 1,10000
+689,AD-CN-KE-1684,A,Income,Income Source 1,7000
+690,AD-CN-KE-1686,A,Income,Income Source 1,3000
+691,AD-CN-KE-1790,E,Income,Income Source 1,900
+692,AD-CN-KE-1804,DD,Income,Income Source 1,100000
+693,AD-CN-KE-1811,DD,Income,Income Source 1,7000
+694,AD-CN-KE-1812,DD,Income,Income Source 1,5000
+695,AD-CN-KE-1877,N,Income,Income Source 1,900
+696,AD-CN-KE-1878,N,Income,Income Source 1,2100
+697,AD-CW-CH-1633,U-03,Income,Income Source 1,1000
+698,AD-CW-CH-1666,A,Income,Income Source 1,2500
+699,AD-CW-CH-1765,D,Income,Income Source 1,5000
+700,AD-CW-CH-1766,D,Income,Income Source 1,1000
+701,AD-CW-CH-1778,D,Income,Income Source 1,2000
+702,AD-CW-CH-1817,EE-01,Income,Income Source 1,2000
+703,AD-CW-CH-1904,U,Income,Income Source 1,500
+704,AD-CW-CH-1905,U,Income,Income Source 1,1500
+705,AD-CW-CH-2195,U-03,Income,Income Source 1,5000
+706,AD-MO-KE-2183,U-03,Income,Income Source 1,1000
+707,AD-MO-TI-1862,N,Income,Income Source 1,1800
+708,AD-NO-TI-1757,AK-01,Income,Income Source 1,900
+709,AD-NO-TI-1798,DD,Income,Income Source 1,1000
+710,AD-NO-TI-1800,DD,Income,Income Source 1,1200
+711,AD-NO-TI-1873,N,Income,Income Source 1,1099
+712,AD-SO-CH-2207,U-03,Income,Income Source 1,3000
+713,AD-SO-CH-2210,U-03,Income,Income Source 1,5000
+714,AD-SO-KE-1646,A,Income,Income Source 1,1000
+715,AD-SO-KE-2222,U-03,Income,Income Source 1,4000
+716,AD-WE-CH-1858,H,Income,Income Source 1,500
+717,AD-WE-CH-1859,AQ,Income,Income Source 1,900
+718,AD-WE-KE-1710,AD,Income,Income Source 1,5400
+719,AD-WE-KE-1827,T,Income,Income Source 1,450
+720,AD-WE-KE-1832,T,Income,Income Source 1,2500
+721,DD-ET-1918,A,Income,Income Source 1,2000
+722,DD-ET-1920,A,Income,Income Source 1,8000
+723,DD-ET-1930,AD,Income,Income Source 1,1910
+724,DD-ET-1947,AQ,Income,Income Source 1,2800
+725,DD-ET-1948,D,Income,Income Source 1,200
+726,DD-ET-1949,D,Income,Income Source 1,
+727,DD-ET-1951,D,Income,Income Source 1,2000
+728,DD-ET-1956,DD,Income,Income Source 1,29800
+729,DD-ET-1957,DD,Income,Income Source 1,4662
+730,DD-ET-1959,G,Income,Income Source 1,738
+731,DD-ET-1960,G,Income,Income Source 1,91050
+732,DD-ET-1967,G-03,Income,Income Source 1,2969
+733,DD-ET-2194,U-03,Income,Income Source 1,300
+734,DD-ET-2246,U-03,Income,Income Source 1,40000
+735,DD-ET-2332,V,Income,Income Source 1,1800
+736,HR-AL-2007,A,Income,Income Source 1,11000
+737,HR-AL-2035,D,Income,Income Source 1,1000
+738,HR-AL-2045,D,Income,Income Source 1,500
+739,HR-AL-2059,E,Income,Income Source 1,
+740,HR-AL-2075,F-01,Income,Income Source 1,4000
+741,HR-AL-2090,F,Income,Income Source 1,9800
+742,HR-AL-2107,G,Income,Income Source 1,1500
+743,HR-AL-2115,G,Income,Income Source 1,26000
+744,HR-AL-2132,N,Income,Income Source 1,800
+745,HR-AL-2135,N,Income,Income Source 1,1000
+746,HR-AL-2143,N,Income,Income Source 1,1000
+747,HR-AL-2151,N,Income,Income Source 1,400
+748,HR-AL-2157,N,Income,Income Source 1,200
+749,HR-AL-2169,X,Income,Income Source 1,25000
+750,HR-AL-2174,X,Income,Income Source 1,7000
+751,HR-DE-1995,F,Income,Income Source 1,18000
+752,HR-DE-1996,A,Income,Income Source 1,25000
+753,HR-DE-2001,G,Income,Income Source 1,700
+754,HR-DE-2014,A,Income,Income Source 1,13000
+755,HR-DE-2021,AD,Income,Income Source 1,30000
+756,HR-DE-2080,F,Income,Income Source 1,135000
+757,HR-DE-2122,AQ,Income,Income Source 1,3000
+758,HR-DE-2123,AQ,Income,Income Source 1,80000
+759,HR-DE-2127,M,Income,Income Source 1,150
+760,HR-DE-2128,M,Income,Income Source 1,200
+761,HR-DE-2171,X,Income,Income Source 1,1100
+762,HR-DE-2244,U,Income,Income Source 1,1300
+763,AA-FE-ED-1009,A,LoanTaken,Supplier,
+764,AA-FE-ED-1050,A,LoanTaken,Friends,
+765,AA-FE-HI-1051,A,LoanTaken,Friends,
+766,AA-FE-HI-2227,U-03,LoanTaken,Government bank,
+767,AA-JS-SA-1282,AK-01,LoanTaken,Commercial bank,
+768,AA-KC-ED-1515,F,LoanTaken,SACCO/Cooperative,
+769,AA-KC-ED-1592,S,LoanTaken,Commercial bank,
+770,AA-KC-ED-1595,S,LoanTaken,SACCO/Cooperative,
+771,AA-KE-ED-1005,A,LoanTaken,Supplier,
+772,AA-KE-ED-1025,A,LoanTaken,Friends,
+773,AA-KE-ED-1036,A,LoanTaken,Vendor,
+774,AA-KE-ED-1593,leather production,LoanTaken,Family,
+775,AA-KE-HI-1280,AK-01,LoanTaken,MFI,
+776,AA-KE-HI-1568,Husking and grinding,LoanTaken,Supplier,
+777,AA-KE-HI-2311,Clinic,LoanTaken,Supplier,
+778,AA-KE-NA-1615,U,LoanTaken,MFI,
+779,AA-KE-SA-1023,A,LoanTaken,MFI,
+780,AA-KG-SA-1020,A,LoanTaken,Other (specify),
+781,AA-KG-SA-1315,D,LoanTaken,Friends,
+782,AA-KG-SA-1342,D,LoanTaken,Other (specify),
+783,AA-KG-SA-1343,D,LoanTaken,"Merchandiser, incl. buy-now-pay-later",
+784,AA-KG-SA-1376,EE-01,LoanTaken,Other (specify),
+785,AA-KG-SA-1495,Garment production,LoanTaken,Deposit taking microfinance (MDI),
+786,AA-KS-NA-1069,A,LoanTaken,"Informal savings group (used for business, VSLA, Equb, Edir …)",
+787,AA-KS-NA-1086,A,LoanTaken,Friends,
+788,AA-KS-NA-1132,AD,LoanTaken,Family,
+789,AA-KS-NA-1368,DD,LoanTaken,Family,
+790,AA-KS-NA-1382,EE-01,LoanTaken,SACCO/Cooperative,
+791,AA-KS-NA-1383,EE-01,LoanTaken,SACCO/Cooperative,
+792,AA-KS-NA-1551,G,LoanTaken,Supplier,
+793,AA-KS-NA-1552,injera Production,LoanTaken,Supplier,
+794,AA-KS-NA-1561,G,LoanTaken,Family,
+795,AA-KS-NA-1603,S,LoanTaken,Deposit taking microfinance (MDI),
+796,AA-ME-HI-1013,Furniture,LoanTaken,MFI,
+797,AA-ME-HI-1159,Printing and advertising,LoanTaken,Commercial bank,
+798,AA-ME-HI-1198,Printing and advertising,LoanTaken,Friends,
+799,AA-ME-HI-1454,Garment,LoanTaken,Supplier,
+800,AA-ME-HI-1466,Garment,LoanTaken,Supplier,
+801,AA-ME-HI-1598,Leather product Production,LoanTaken,MFI,
+802,AA-ME-HI-1600,Leather product production,LoanTaken,Commercial bank,
+803,AA-SC-ET-1496,F,LoanTaken,SACCO/Cooperative,
+804,AA-SC-ET-1519,F,LoanTaken,SACCO/Cooperative,
+805,AA-SC-ET-1631,X,LoanTaken,SACCO/Cooperative,
+806,AA-YA-WN-2222,C-01,LoanTaken,SACCO/Cooperative,
+807,AD-AW-AM-0000,DD,LoanTaken,Friends,
+808,AD-CE-TI-1663,A,LoanTaken,Friends,
+809,AD-CE-TI-1719,AD,LoanTaken,Commercial bank,
+810,AD-CE-TI-1870,J-8,LoanTaken,Deposit taking microfinance (MDI),
+811,AD-CN-KE-1804,DD,LoanTaken,Commercial bank,
+812,AD-CW-CH-1666,A,LoanTaken,Family,
+813,AD-CW-CH-1817,EE-01,LoanTaken,Family,
+814,AD-CW-CH-1904,U,LoanTaken,MFI,
+815,AD-CW-CH-2195,U-03,LoanTaken,Friends,
+816,AD-MO-KE-2183,U-03,LoanTaken,Commercial bank,
+817,AD-SO-CH-2207,U-03,LoanTaken,Friends,
+818,AD-SO-KE-2222,U-03,LoanTaken,Family,
+819,DD-ET-1918,A,LoanTaken,MFI,
+820,DD-ET-1920,A,LoanTaken,Supplier,
+821,DD-ET-1930,AD,LoanTaken,Friends,
+822,DD-ET-1947,AQ,LoanTaken,Friends,
+823,DD-ET-1948,D,LoanTaken,"Informal savings group (used for business, VSLA, Equb, Edir …)",
+824,DD-ET-1949,D,LoanTaken,Government bank,
+825,DD-ET-1956,DD,LoanTaken,Deposit taking microfinance (MDI),
+826,DD-ET-1957,DD,LoanTaken,MFI,
+827,DD-ET-1959,G,LoanTaken,Vendor,
+828,DD-ET-1960,G,LoanTaken,Vendor,
+829,DD-ET-2332,V,LoanTaken,Family,
+830,HR-AL-2059,E,LoanTaken,Family,
+831,HR-AL-2090,F,LoanTaken,Vendor,
+832,HR-AL-2107,G,LoanTaken,Vendor,
+833,HR-AL-2115,G,LoanTaken,Friends,
+834,HR-AL-2151,N,LoanTaken,Vendor,
+835,HR-AL-2157,N,LoanTaken,Vendor,
+836,HR-DE-1996,A,LoanTaken,Commercial bank,
+837,HR-DE-2127,M,LoanTaken,Friends,
+838,HR-DE-2128,M,LoanTaken,Vendor,
+839,AA-BA-HE-1111,AE,LoanGiven,Friend,
+840,AA-FE-ED-1050,A,LoanGiven,Customer,
+841,AA-FE-HI-1051,A,LoanGiven,Customer,
+842,AA-FE-HI-2227,U-03,LoanGiven,Friend,
+843,AA-JS-SA-1282,AK-01,LoanGiven,Friend,
+844,AA-KC-ED-1592,S,LoanGiven,Customer,
+845,AA-KE-ED-1005,A,LoanGiven,Customer,
+846,AA-KE-ED-1036,A,LoanGiven,Customer,
+847,AA-KE-HI-1568,Husking and grinding,LoanGiven,Customer,
+848,AA-KE-NA-1373,Printing and advertising,LoanGiven,Customer,
+849,AA-KE-SA-1023,A,LoanGiven,Customer,
+850,AA-KE-SA-1056,Carpenter,LoanGiven,Customer,
+851,AA-KG-SA-1012,D,LoanGiven,Customer,
+852,AA-KG-SA-1068,A,LoanGiven,Friend,
+853,AA-KG-SA-1087,A,LoanGiven,Friend,
+854,AA-KG-SA-1315,D,LoanGiven,Friend,
+855,AA-KG-SA-1317,D,LoanGiven,Friend,
+856,AA-KG-SA-1376,EE-01,LoanGiven,Friend,
+857,AA-KG-SA-1495,Garment production,LoanGiven,Friend,
+858,AA-KS-NA-1086,A,LoanGiven,Customer,
+859,AA-KS-NA-1132,AD,LoanGiven,Family,
+860,AA-KS-NA-1383,EE-01,LoanGiven,Customer,
+861,AA-KS-NA-1561,G,LoanGiven,Family,
+862,AA-KS-NA-1603,S,LoanGiven,Customer,
+863,AA-KS-NA-2410,F,LoanGiven,Family,
+864,AA-ME-HI-1013,Furniture,LoanGiven,Employee,
+865,AA-ME-HI-1159,Printing and advertising,LoanGiven,Friend,
+866,AA-ME-HI-1185,AD,LoanGiven,Customer,
+867,AA-ME-HI-1198,Printing and advertising,LoanGiven,Friend,
+868,AA-ME-HI-1262,Machinery rent,LoanGiven,Customer,
+869,AA-ME-HI-1598,Leather product Production,LoanGiven,Customer,
+870,AA-ME-HI-1600,Leather product production,LoanGiven,Family,
+871,AA-SC-ET-1486,F,LoanGiven,Friend,
+872,AA-SC-ET-1611,F,LoanGiven,Customer,
+873,AA-YA-WN-2222,C-01,LoanGiven,Friend,
+874,AD-AW-AM-0000,DD,LoanGiven,Friend,
+875,AD-CE-TI-1719,AD,LoanGiven,Customer,
+876,AD-CE-TI-1815,U-03,LoanGiven,Family,
+877,AD-CE-TI-1874,N,LoanGiven,Friend,
+878,AD-CN-KE-1812,DD,LoanGiven,Customer,
+879,AD-CW-CH-1666,A,LoanGiven,Customer,
+880,AD-CW-CH-1765,D,LoanGiven,Customer,
+881,AD-CW-CH-1817,EE-01,LoanGiven,Customer,
+882,AD-CW-CH-1905,U,LoanGiven,Friend,
+883,AD-NO-TI-1757,AK-01,LoanGiven,Friend,
+884,AD-SO-CH-2207,U-03,LoanGiven,Customer,
+885,AD-SO-KE-1646,A,LoanGiven,Friend,
+886,AD-SO-KE-2222,U-03,LoanGiven,Employee,
+887,DD-ET-1918,A,LoanGiven,Customer,
+888,DD-ET-1920,A,LoanGiven,Customer,
+889,DD-ET-1930,AD,LoanGiven,Family,
+890,DD-ET-1947,AQ,LoanGiven,Customer,
+891,DD-ET-1948,D,LoanGiven,Friend,
+892,DD-ET-1949,D,LoanGiven,Customer,
+893,DD-ET-1956,DD,LoanGiven,Customer,
+894,DD-ET-1957,DD,LoanGiven,Customer,
+895,DD-ET-1959,G,LoanGiven,Customer,
+896,DD-ET-1960,G,LoanGiven,Family,
+897,DD-ET-1967,G-03,LoanGiven,Customer,
+898,DD-ET-2332,V,LoanGiven,Customer,
+899,HR-AL-2059,E,LoanGiven,Customer,
+900,HR-AL-2157,N,LoanGiven,Customer,
+901,HR-DE-2122,AQ,LoanGiven,Customer,
+902,AA-BA-HE-1111,AE,Expense,Investments/assets,
+903,AA-FE-ED-1009,A,Expense,Rent,
+904,AA-FE-ED-1050,A,Expense,Rent,
+905,AA-FE-HI-1051,A,Expense,Rent,
+906,AA-FE-HI-1154,Photo studio,Expense,Other cost,
+907,AA-FE-HI-2227,U-03,Expense,"Utility costs (electricity, water, …)",
+908,AA-JS-SA-1282,AK-01,Expense,Wages/salaries workers,
+909,AA-KC-ED-1475,F,Expense,"Utility costs (electricity, water, …)",
+910,AA-KC-ED-1515,F,Expense,Raw materials,
+911,AA-KC-ED-1592,S,Expense,"Utility costs (electricity, water, …)",
+912,AA-KC-ED-1595,S,Expense,"Utility costs (electricity, water, …)",
+913,AA-KC-ED-2385,X,Expense,Other cost,
+914,AA-KE-ED-1005,A,Expense,Raw materials,
+915,AA-KE-ED-1025,A,Expense,Raw materials,
+916,AA-KE-ED-1036,A,Expense,Rent,
+917,AA-KE-ED-1065,Wood and metal work,Expense,Fuel (for machines or vehicles),
+918,AA-KE-ED-1593,leather production,Expense,Raw materials,
+919,AA-KE-HI-1280,AK-01,Expense,Raw materials,
+920,AA-KE-HI-1283,AK-01,Expense,Raw materials,
+921,AA-KE-HI-1568,Husking and grinding,Expense,Rent,
+922,AA-KE-HI-2311,Clinic,Expense,"Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)",
+923,AA-KE-NA-1373,Printing and advertising,Expense,Raw materials,
+924,AA-KE-NA-1615,U,Expense,Raw materials,
+925,AA-KE-SA-1023,A,Expense,Raw materials,
+926,AA-KE-SA-1043,A,Expense,Raw materials,
+927,AA-KE-SA-1056,Carpenter,Expense,Raw materials,
+928,AA-KG-SA-1012,D,Expense,Other cost,
+929,AA-KG-SA-1020,A,Expense,Raw materials,
+930,AA-KG-SA-1047,A,Expense,Raw materials,
+931,AA-KG-SA-1059,A,Expense,"Transport, freight and storage/warehousing",
+932,AA-KG-SA-1068,A,Expense,Rent,
+933,AA-KG-SA-1083,D,Expense,Raw materials,
+934,AA-KG-SA-1087,A,Expense,Raw materials,
+935,AA-KG-SA-1312,D,Expense,Raw materials,
+936,AA-KG-SA-1315,D,Expense,Raw materials,
+937,AA-KG-SA-1317,D,Expense,Raw materials,
+938,AA-KG-SA-1336,D,Expense,Rent,
+939,AA-KG-SA-1342,D,Expense,Raw materials,
+940,AA-KG-SA-1343,D,Expense,"Non-staff labour (maintenance, casual labor etc...)",
+941,AA-KG-SA-1376,EE-01,Expense,Raw materials,
+942,AA-KG-SA-1495,Garment production,Expense,Raw materials,
+943,AA-KS-NA-1069,A,Expense,Raw materials,
+944,AA-KS-NA-1086,A,Expense,Raw materials,
+945,AA-KS-NA-1132,AD,Expense,Raw materials,
+946,AA-KS-NA-1368,DD,Expense,"Utility costs (electricity, water, …)",
+947,AA-KS-NA-1382,EE-01,Expense,Raw materials,
+948,AA-KS-NA-1383,EE-01,Expense,Rent,
+949,AA-KS-NA-1467,F,Expense,Raw materials,
+950,AA-KS-NA-1551,G,Expense,"Utility costs (electricity, water, …)",
+951,AA-KS-NA-1552,injera Production,Expense,Raw materials,
+952,AA-KS-NA-1561,G,Expense,"Utility costs (electricity, water, …)",
+953,AA-KS-NA-1603,S,Expense,Raw materials,
+954,AA-KS-NA-2410,F,Expense,"Transport, freight and storage/warehousing",
+955,AA-ME-HI-1013,Furniture,Expense,Raw materials,
+956,AA-ME-HI-1159,Printing and advertising,Expense,Fuel (for machines or vehicles),
+957,AA-ME-HI-1185,AD,Expense,Raw materials,
+958,AA-ME-HI-1198,Printing and advertising,Expense,Raw materials,
+959,AA-ME-HI-1262,Machinery rent,Expense,Fuel (for machines or vehicles),
+960,AA-ME-HI-1454,Garment,Expense,Other cost,
+961,AA-ME-HI-1466,Garment,Expense,Raw materials,
+962,AA-ME-HI-1598,Leather product Production,Expense,Raw materials,
+963,AA-ME-HI-1600,Leather product production,Expense,Other cost,
+964,AA-SC-ET-1410,Pottery Production Works,Expense,Raw materials,
+965,AA-SC-ET-1463,F,Expense,"Utility costs (electricity, water, …)",
+966,AA-SC-ET-1476,F,Expense,"Utility costs (electricity, water, …)",
+967,AA-SC-ET-1486,F,Expense,"Transport, freight and storage/warehousing",
+968,AA-SC-ET-1496,F,Expense,"Utility costs (electricity, water, …)",
+969,AA-SC-ET-1497,F,Expense,Raw materials,
+970,AA-SC-ET-1519,F,Expense,"Utility costs (electricity, water, …)",
+971,AA-SC-ET-1611,F,Expense,"Utility costs (electricity, water, …)",
+972,AA-SC-ET-1631,X,Expense,"Bank costs (account maintenance, interest payments is part of loan section)",
+973,AA-YA-ET-2414,DD,Expense,"Transport, freight and storage/warehousing",
+974,AA-YA-ET-2415,DD,Expense,"Utility costs (electricity, water, …)",
+975,AA-YA-WN-2222,C-01,Expense,"Maintenance, parts (non-labour maintenance costs)",
+976,AD-AW-AM-0000,DD,Expense,Raw materials,
+977,AD-CE-TI-1663,A,Expense,Raw materials,
+978,AD-CE-TI-1719,AD,Expense,Raw materials,
+979,AD-CE-TI-1815,U-03,Expense,Raw materials,
+980,AD-CE-TI-1870,J-8,Expense,Raw materials,
+981,AD-CE-TI-1874,N,Expense,Raw materials,
+982,AD-CE-TI-2190,U-03,Expense,Raw materials,
+983,AD-CE-TI-2234,U-03,Expense,Investments/assets,
+984,AD-CN-CH-1683,A,Expense,Other significant expenses,
+985,AD-CN-KE-1684,A,Expense,Raw materials,
+986,AD-CN-KE-1686,A,Expense,Raw materials,
+987,AD-CN-KE-1790,E,Expense,Raw materials,
+988,AD-CN-KE-1804,DD,Expense,Raw materials,
+989,AD-CN-KE-1811,DD,Expense,Raw materials,
+990,AD-CN-KE-1812,DD,Expense,Raw materials,
+991,AD-CN-KE-1877,N,Expense,"Maintenance, parts (non-labour maintenance costs)",
+992,AD-CN-KE-1878,N,Expense,"Non-staff labour (maintenance, casual labor etc...)",
+993,AD-CW-CH-1633,U-03,Expense,Raw materials,
+994,AD-CW-CH-1666,A,Expense,Raw materials,
+995,AD-CW-CH-1765,D,Expense,House/rent,
+996,AD-CW-CH-1766,D,Expense,Raw materials,
+997,AD-CW-CH-1778,D,Expense,Other cost,
+998,AD-CW-CH-1817,EE-01,Expense,"Transport, freight and storage/warehousing",
+999,AD-CW-CH-1904,U,Expense,School fees,
+1000,AD-CW-CH-1905,U,Expense,Food at home,
+1001,AD-CW-CH-2195,U-03,Expense,Wages/salaries workers,
+1002,AD-MO-KE-2183,U-03,Expense,Raw materials,
+1003,AD-MO-TI-1862,N,Expense,"Transport, freight and storage/warehousing",
+1004,AD-NO-TI-1757,AK-01,Expense,"Transport, freight and storage/warehousing",
+1005,AD-NO-TI-1798,DD,Expense,Raw materials,
+1006,AD-NO-TI-1800,DD,Expense,Raw materials,
+1007,AD-NO-TI-1873,N,Expense,"Professional services (accountants, recruitment services, advisors, …)",
+1008,AD-SO-CH-2207,U-03,Expense,Raw materials,
+1009,AD-SO-CH-2210,U-03,Expense,Rent,
+1010,AD-SO-KE-1646,A,Expense,Raw materials,
+1011,AD-SO-KE-2222,U-03,Expense,"Utility costs (electricity, water, …)",
+1012,AD-WE-CH-1858,H,Expense,Raw materials,
+1013,AD-WE-CH-1859,AQ,Expense,Clothing and shoes,
+1014,AD-WE-KE-1710,AD,Expense,Raw materials,
+1015,AD-WE-KE-1827,T,Expense,Rent,
+1016,AD-WE-KE-1832,T,Expense,Raw materials,
+1017,DD-ET-1918,A,Expense,Raw materials,
+1018,DD-ET-1920,A,Expense,Raw materials,
+1019,DD-ET-1930,AD,Expense,Raw materials,
+1020,DD-ET-1947,AQ,Expense,Raw materials,
+1021,DD-ET-1948,D,Expense,Raw materials,
+1022,DD-ET-1949,D,Expense,Raw materials,
+1023,DD-ET-1951,D,Expense,Raw materials,
+1024,DD-ET-1956,DD,Expense,Wages/salaries workers,
+1025,DD-ET-1957,DD,Expense,Wages/salaries workers,
+1026,DD-ET-1959,G,Expense,"Utility costs (electricity, water, …)",
+1027,DD-ET-1960,G,Expense,"Utility costs (electricity, water, …)",
+1028,DD-ET-1967,G-03,Expense,Raw materials,
+1029,DD-ET-2246,U-03,Expense,"Maintenance, parts (non-labour maintenance costs)",
+1030,DD-ET-2332,V,Expense,"Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)",
+1031,HR-AL-2007,A,Expense,Raw materials,
+1032,HR-AL-2035,D,Expense,"Utility costs (electricity, water, …)",
+1033,HR-AL-2045,D,Expense,"Utility costs (electricity, water, …)",
+1034,HR-AL-2059,E,Expense,Raw materials,
+1035,HR-AL-2075,F-01,Expense,Raw materials,
+1036,HR-AL-2090,F,Expense,Raw materials,
+1037,HR-AL-2107,G,Expense,Wages/salaries workers,
+1038,HR-AL-2115,G,Expense,"Transport, freight and storage/warehousing",
+1039,HR-AL-2132,N,Expense,"Utility costs (electricity, water, …)",
+1040,HR-AL-2135,N,Expense,"Utility costs (electricity, water, …)",
+1041,HR-AL-2143,N,Expense,"Utility costs (electricity, water, …)",
+1042,HR-AL-2151,N,Expense,"Utility costs (electricity, water, …)",
+1043,HR-AL-2157,N,Expense,Rent,
+1044,HR-AL-2169,X,Expense,Investments/assets,
+1045,HR-AL-2174,X,Expense,Rent,
+1046,HR-DE-1995,F,Expense,Raw materials,
+1047,HR-DE-1996,A,Expense,Rent,
+1048,HR-DE-2001,G,Expense,Fuel (for machines or vehicles),
+1049,HR-DE-2014,A,Expense,Raw materials,
+1050,HR-DE-2021,AD,Expense,Other cost,
+1051,HR-DE-2080,F,Expense,"Utility costs (electricity, water, …)",
+1052,HR-DE-2122,AQ,Expense,Fuel (for machines or vehicles),
+1053,HR-DE-2123,AQ,Expense,Other cost,
+1054,HR-DE-2127,M,Expense,Raw materials,
+1055,HR-DE-2128,M,Expense,Other cost,
+1056,HR-DE-2171,X,Expense,"Transport, freight and storage/warehousing",
+1057,HR-DE-2244,U,Expense,Investments/assets,
+1058,AA-BA-HE-1111,AE,Income,Income Source 3,
+1059,AA-FE-ED-1009,A,Income,Income Source 1,
+1060,AA-FE-ED-1050,A,Income,Income Source 1,
+1061,AA-FE-HI-1051,A,Income,Income Source 1,
+1062,AA-FE-HI-1154,Photo studio,Income,Income Source 1,
+1063,AA-FE-HI-2227,U-03,Income,Income Source 1,
+1064,AA-JS-SA-1282,AK-01,Income,Income Source 1,
+1065,AA-KC-ED-1475,F,Income,Income Source 1,
+1066,AA-KC-ED-1515,F,Income,Income Source 1,
+1067,AA-KC-ED-1592,S,Income,Income Source 1,
+1068,AA-KC-ED-1595,S,Income,Income Source 1,
+1069,AA-KC-ED-2385,X,Income,Income Source 1,
+1070,AA-KE-ED-1005,A,Income,Income Source 1,
+1071,AA-KE-ED-1025,A,Income,Income Source 1,
+1072,AA-KE-ED-1036,A,Income,Income Source 1,
+1073,AA-KE-ED-1065,Wood and metal work,Income,Income Source 1,
+1074,AA-KE-ED-1593,leather production,Income,Income Source 1,
+1075,AA-KE-HI-1280,AK-01,Income,Income Source 1,
+1076,AA-KE-HI-1283,AK-01,Income,Income Source 1,
+1077,AA-KE-HI-1568,Husking and grinding,Income,Income Source 1,
+1078,AA-KE-HI-2311,Clinic,Income,Income Source 1,
+1079,AA-KE-NA-1373,Printing and advertising,Income,Income Source 1,
+1080,AA-KE-NA-1615,U,Income,Income Source 1,
+1081,AA-KE-SA-1023,A,Income,Income Source 1,
+1082,AA-KE-SA-1043,A,Income,Income Source 1,
+1083,AA-KE-SA-1056,Carpenter,Income,Income Source 1,
+1084,AA-KG-SA-1012,D,Income,Income Source 1,
+1085,AA-KG-SA-1020,A,Income,Income Source 1,
+1086,AA-KG-SA-1047,A,Income,Income Source 1,
+1087,AA-KG-SA-1059,A,Income,Income Source 1,
+1088,AA-KG-SA-1068,A,Income,Income Source 1,
+1089,AA-KG-SA-1083,D,Income,Income Source 1,
+1090,AA-KG-SA-1087,A,Income,Income Source 1,
+1091,AA-KG-SA-1312,D,Income,Income Source 1,
+1092,AA-KG-SA-1315,D,Income,Income Source 1,
+1093,AA-KG-SA-1317,D,Income,Income Source 1,
+1094,AA-KG-SA-1336,D,Income,Income Source 1,
+1095,AA-KG-SA-1342,D,Income,Income Source 1,
+1096,AA-KG-SA-1343,D,Income,Income Source 1,
+1097,AA-KG-SA-1376,EE-01,Income,Income Source 1,
+1098,AA-KG-SA-1495,Garment production,Income,Income Source 1,
+1099,AA-KS-NA-1069,A,Income,Income Source 1,
+1100,AA-KS-NA-1086,A,Income,Income Source 1,
+1101,AA-KS-NA-1132,AD,Income,Income Source 1,
+1102,AA-KS-NA-1368,DD,Income,Income Source 1,
+1103,AA-KS-NA-1382,EE-01,Income,Income Source 1,
+1104,AA-KS-NA-1383,EE-01,Income,Income Source 1,
+1105,AA-KS-NA-1467,F,Income,Income Source 1,
+1106,AA-KS-NA-1551,G,Income,Income Source 1,
+1107,AA-KS-NA-1552,injera Production,Income,Income Source 1,
+1108,AA-KS-NA-1561,G,Income,Income Source 1,
+1109,AA-KS-NA-1603,S,Income,Income Source 1,
+1110,AA-KS-NA-2410,F,Income,Income Source 1,
+1111,AA-ME-HI-1013,Furniture,Income,Income Source 1,
+1112,AA-ME-HI-1159,Printing and advertising,Income,Income Source 1,
+1113,AA-ME-HI-1185,AD,Income,Income Source 1,
+1114,AA-ME-HI-1262,Machinery rent,Income,Income Source 1,
+1115,AA-ME-HI-1454,Garment,Income,Income Source 1,
+1116,AA-ME-HI-1466,Garment,Income,Income Source 1,
+1117,AA-ME-HI-1598,Leather product Production,Income,Income Source 1,
+1118,AA-ME-HI-1600,Leather product production,Income,Income Source 1,
+1119,AA-SC-ET-1410,Pottery Production Works,Income,Income Source 1,
+1120,AA-SC-ET-1463,F,Income,Income Source 1,
+1121,AA-SC-ET-1476,F,Income,Income Source 1,
+1122,AA-SC-ET-1486,F,Income,Income Source 1,
+1123,AA-SC-ET-1496,F,Income,Income Source 1,
+1124,AA-SC-ET-1497,F,Income,Income Source 1,
+1125,AA-SC-ET-1519,F,Income,Income Source 1,
+1126,AA-SC-ET-1611,F,Income,Income Source 1,
+1127,AA-SC-ET-1631,X,Income,Income Source 1,
+1128,AA-YA-ET-2414,DD,Income,Income Source 1,
+1129,AA-YA-ET-2415,DD,Income,Income Source 1,
+1130,AA-YA-WN-2222,C-01,Income,Income Source 1,
+1131,AD-AW-AM-0000,DD,Income,Income Source 1,
+1132,AD-CE-TI-1663,A,Income,Income Source 1,
+1133,AD-CE-TI-1719,AD,Income,Income Source 2,
+1134,AD-CE-TI-1815,U-03,Income,Income Source 1,
+1135,AD-CE-TI-1870,J-8,Income,Income Source 1,
+1136,AD-CE-TI-1874,N,Income,Income Source 1,
+1137,AD-CE-TI-2190,U-03,Income,Income Source 1,
+1138,AD-CE-TI-2234,U-03,Income,Income Source 1,
+1139,AD-CN-CH-1683,A,Income,Income Source 1,
+1140,AD-CN-KE-1684,A,Income,Income Source 1,
+1141,AD-CN-KE-1686,A,Income,Income Source 1,
+1142,AD-CN-KE-1790,E,Income,Income Source 1,
+1143,AD-CN-KE-1804,DD,Income,Income Source 1,
+1144,AD-CN-KE-1811,DD,Income,Income Source 1,
+1145,AD-CN-KE-1812,DD,Income,Income Source 1,
+1146,AD-CN-KE-1877,N,Income,Income Source 1,
+1147,AD-CN-KE-1878,N,Income,Income Source 1,
+1148,AD-CW-CH-1633,U-03,Income,Income Source 1,
+1149,AD-CW-CH-1666,A,Income,Income Source 1,
+1150,AD-CW-CH-1765,D,Income,Income Source 1,
+1151,AD-CW-CH-1766,D,Income,Income Source 1,
+1152,AD-CW-CH-1778,D,Income,Income Source 1,
+1153,AD-CW-CH-1817,EE-01,Income,Income Source 1,
+1154,AD-CW-CH-1904,U,Income,Income Source 1,
+1155,AD-CW-CH-1905,U,Income,Income Source 1,
+1156,AD-CW-CH-2195,U-03,Income,Income Source 1,
+1157,AD-MO-KE-2183,U-03,Income,Income Source 1,
+1158,AD-MO-TI-1862,N,Income,Income Source 1,
+1159,AD-NO-TI-1757,AK-01,Income,Income Source 1,
+1160,AD-NO-TI-1798,DD,Income,Income Source 1,
+1161,AD-NO-TI-1800,DD,Income,Income Source 1,
+1162,AD-NO-TI-1873,N,Income,Income Source 1,
+1163,AD-SO-CH-2207,U-03,Income,Income Source 1,
+1164,AD-SO-CH-2210,U-03,Income,Income Source 1,
+1165,AD-SO-KE-1646,A,Income,Income Source 1,
+1166,AD-SO-KE-2222,U-03,Income,Income Source 1,
+1167,AD-WE-CH-1858,H,Income,Income Source 1,
+1168,AD-WE-CH-1859,AQ,Income,Income Source 1,
+1169,AD-WE-KE-1710,AD,Income,Income Source 1,
+1170,AD-WE-KE-1827,T,Income,Income Source 1,
+1171,AD-WE-KE-1832,T,Income,Income Source 1,
+1172,DD-ET-1918,A,Income,Income Source 1,
+1173,DD-ET-1920,A,Income,Income Source 1,
+1174,DD-ET-1930,AD,Income,Income Source 1,
+1175,DD-ET-1947,AQ,Income,Income Source 1,
+1176,DD-ET-1948,D,Income,Income Source 1,
+1177,DD-ET-1949,D,Income,Income Source 1,
+1178,DD-ET-1951,D,Income,Income Source 1,
+1179,DD-ET-1956,DD,Income,Income Source 1,
+1180,DD-ET-1957,DD,Income,Income Source 1,
+1181,DD-ET-1959,G,Income,Income Source 1,
+1182,DD-ET-1960,G,Income,Income Source 1,
+1183,DD-ET-1967,G-03,Income,Income Source 1,
+1184,DD-ET-2194,U-03,Income,Income Source 1,
+1185,DD-ET-2246,U-03,Income,Income Source 1,
+1186,DD-ET-2332,V,Income,Income Source 1,
+1187,HR-AL-2007,A,Income,Income Source 1,
+1188,HR-AL-2035,D,Income,Income Source 1,
+1189,HR-AL-2045,D,Income,Income Source 1,
+1190,HR-AL-2059,E,Income,Income Source 1,
+1191,HR-AL-2075,F-01,Income,Income Source 1,
+1192,HR-AL-2090,F,Income,Income Source 1,
+1193,HR-AL-2107,G,Income,Income Source 1,
+1194,HR-AL-2115,G,Income,Income Source 1,
+1195,HR-AL-2132,N,Income,Income Source 1,
+1196,HR-AL-2135,N,Income,Income Source 1,
+1197,HR-AL-2143,N,Income,Income Source 1,
+1198,HR-AL-2151,N,Income,Income Source 1,
+1199,HR-AL-2157,N,Income,Income Source 1,
+1200,HR-AL-2169,X,Income,Income Source 1,
+1201,HR-AL-2174,X,Income,Income Source 1,
+1202,HR-DE-1995,F,Income,Income Source 1,
+1203,HR-DE-1996,A,Income,Income Source 1,
+1204,HR-DE-2001,G,Income,Income Source 1,
+1205,HR-DE-2014,A,Income,Income Source 1,
+1206,HR-DE-2021,AD,Income,Income Source 1,
+1207,HR-DE-2080,F,Income,Income Source 1,
+1208,HR-DE-2122,AQ,Income,Income Source 1,
+1209,HR-DE-2123,AQ,Income,Income Source 1,
+1210,HR-DE-2127,M,Income,Income Source 1,
+1211,HR-DE-2128,M,Income,Income Source 1,
+1212,HR-DE-2171,X,Income,Income Source 1,
+1213,HR-DE-2244,U,Income,Income Source 1,
+1214,AA-FE-ED-1009,A,LoanTaken,Supplier,10000
+1215,AA-FE-ED-1050,A,LoanTaken,Friends,50000
+1216,AA-FE-HI-1051,A,LoanTaken,Friends,100000
+1217,AA-FE-HI-2227,U-03,LoanTaken,Government bank,1600000
+1218,AA-JS-SA-1282,AK-01,LoanTaken,Commercial bank,40000
+1219,AA-KC-ED-1515,F,LoanTaken,SACCO/Cooperative,300000
+1220,AA-KC-ED-1592,S,LoanTaken,Commercial bank,40000
+1221,AA-KC-ED-1595,S,LoanTaken,SACCO/Cooperative,200000
+1222,AA-KE-ED-1005,A,LoanTaken,Supplier,31000
+1223,AA-KE-ED-1025,A,LoanTaken,Friends,9800
+1224,AA-KE-ED-1036,A,LoanTaken,Vendor,16200
+1225,AA-KE-ED-1593,leather production,LoanTaken,Family,7000
+1226,AA-KE-HI-1280,AK-01,LoanTaken,MFI,300000
+1227,AA-KE-HI-1568,Husking and grinding,LoanTaken,Supplier,65000
+1228,AA-KE-HI-2311,Clinic,LoanTaken,Supplier,2485
+1229,AA-KE-NA-1615,U,LoanTaken,MFI,150000
+1230,AA-KE-SA-1023,A,LoanTaken,MFI,200000
+1231,AA-KG-SA-1020,A,LoanTaken,Other (specify),2000
+1232,AA-KG-SA-1315,D,LoanTaken,Friends,350000
+1233,AA-KG-SA-1342,D,LoanTaken,Other (specify),5000
+1234,AA-KG-SA-1343,D,LoanTaken,"Merchandiser, incl. buy-now-pay-later",1700
+1235,AA-KG-SA-1376,EE-01,LoanTaken,Other (specify),15000
+1236,AA-KG-SA-1495,Garment production,LoanTaken,Deposit taking microfinance (MDI),269000
+1237,AA-KS-NA-1069,A,LoanTaken,"Informal savings group (used for business, VSLA, Equb, Edir …)",32000
+1238,AA-KS-NA-1086,A,LoanTaken,Friends,10000
+1239,AA-KS-NA-1132,AD,LoanTaken,Family,322330
+1240,AA-KS-NA-1368,DD,LoanTaken,Family,75000
+1241,AA-KS-NA-1382,EE-01,LoanTaken,SACCO/Cooperative,100000
+1242,AA-KS-NA-1383,EE-01,LoanTaken,SACCO/Cooperative,400000
+1243,AA-KS-NA-1551,G,LoanTaken,Supplier,4200
+1244,AA-KS-NA-1552,injera Production,LoanTaken,Supplier,1700
+1245,AA-KS-NA-1561,G,LoanTaken,Family,60000
+1246,AA-KS-NA-1603,S,LoanTaken,Deposit taking microfinance (MDI),60000
+1247,AA-ME-HI-1013,Furniture,LoanTaken,MFI,100000
+1248,AA-ME-HI-1159,Printing and advertising,LoanTaken,Commercial bank,1200000
+1249,AA-ME-HI-1198,Printing and advertising,LoanTaken,Friends,400000
+1250,AA-ME-HI-1454,Garment,LoanTaken,Supplier,300000
+1251,AA-ME-HI-1466,Garment,LoanTaken,Supplier,220000
+1252,AA-ME-HI-1598,Leather product Production,LoanTaken,MFI,700000
+1253,AA-ME-HI-1600,Leather product production,LoanTaken,Commercial bank,200000
+1254,AA-SC-ET-1496,F,LoanTaken,SACCO/Cooperative,200000
+1255,AA-SC-ET-1519,F,LoanTaken,SACCO/Cooperative,120000
+1256,AA-SC-ET-1631,X,LoanTaken,SACCO/Cooperative,80000
+1257,AA-YA-WN-2222,C-01,LoanTaken,SACCO/Cooperative,200000
+1258,AD-AW-AM-0000,DD,LoanTaken,Friends,5000
+1259,AD-CE-TI-1663,A,LoanTaken,Friends,250000
+1260,AD-CE-TI-1719,AD,LoanTaken,Commercial bank,1200000
+1261,AD-CE-TI-1870,J-8,LoanTaken,Deposit taking microfinance (MDI),100000
+1262,AD-CN-KE-1804,DD,LoanTaken,Commercial bank,4000000
+1263,AD-CW-CH-1666,A,LoanTaken,Family,50000
+1264,AD-CW-CH-1817,EE-01,LoanTaken,Family,250000
+1265,AD-CW-CH-1904,U,LoanTaken,MFI,8000
+1266,AD-CW-CH-2195,U-03,LoanTaken,Friends,18000
+1267,AD-MO-KE-2183,U-03,LoanTaken,Commercial bank,3000
+1268,AD-SO-CH-2207,U-03,LoanTaken,Friends,28000
+1269,AD-SO-KE-2222,U-03,LoanTaken,Family,150000
+1270,DD-ET-1918,A,LoanTaken,MFI,100000
+1271,DD-ET-1920,A,LoanTaken,Supplier,3000
+1272,DD-ET-1930,AD,LoanTaken,Friends,5000
+1273,DD-ET-1947,AQ,LoanTaken,Friends,400000
+1274,DD-ET-1948,D,LoanTaken,"Informal savings group (used for business, VSLA, Equb, Edir …)",30000
+1275,DD-ET-1949,D,LoanTaken,Government bank,666000
+1276,DD-ET-1956,DD,LoanTaken,Deposit taking microfinance (MDI),40000
+1277,DD-ET-1957,DD,LoanTaken,MFI,250000
+1278,DD-ET-1959,G,LoanTaken,Vendor,11600
+1279,DD-ET-1960,G,LoanTaken,Vendor,50000
+1280,DD-ET-2332,V,LoanTaken,Family,950000
+1281,HR-AL-2059,E,LoanTaken,Family,50000
+1282,HR-AL-2090,F,LoanTaken,Vendor,35000
+1283,HR-AL-2107,G,LoanTaken,Vendor,39000
+1284,HR-AL-2115,G,LoanTaken,Friends,200000
+1285,HR-AL-2151,N,LoanTaken,Vendor,219000
+1286,HR-AL-2157,N,LoanTaken,Vendor,50000
+1287,HR-DE-1996,A,LoanTaken,Commercial bank,1000000
+1288,HR-DE-2127,M,LoanTaken,Friends,30000
+1289,HR-DE-2128,M,LoanTaken,Vendor,3000
+1290,AA-BA-HE-1111,AE,LoanGiven,Friend,
+1291,AA-FE-ED-1050,A,LoanGiven,Customer,
+1292,AA-FE-HI-1051,A,LoanGiven,Customer,
+1293,AA-FE-HI-2227,U-03,LoanGiven,Friend,
+1294,AA-JS-SA-1282,AK-01,LoanGiven,Friend,
+1295,AA-KC-ED-1592,S,LoanGiven,Customer,
+1296,AA-KE-ED-1005,A,LoanGiven,Customer,
+1297,AA-KE-ED-1036,A,LoanGiven,Customer,
+1298,AA-KE-HI-1568,Husking and grinding,LoanGiven,Customer,
+1299,AA-KE-NA-1373,Printing and advertising,LoanGiven,Customer,
+1300,AA-KE-SA-1023,A,LoanGiven,Customer,
+1301,AA-KE-SA-1056,Carpenter,LoanGiven,Customer,
+1302,AA-KG-SA-1012,D,LoanGiven,Customer,
+1303,AA-KG-SA-1068,A,LoanGiven,Friend,
+1304,AA-KG-SA-1087,A,LoanGiven,Friend,
+1305,AA-KG-SA-1315,D,LoanGiven,Friend,
+1306,AA-KG-SA-1317,D,LoanGiven,Friend,
+1307,AA-KG-SA-1376,EE-01,LoanGiven,Friend,
+1308,AA-KG-SA-1495,Garment production,LoanGiven,Friend,
+1309,AA-KS-NA-1086,A,LoanGiven,Customer,
+1310,AA-KS-NA-1132,AD,LoanGiven,Family,
+1311,AA-KS-NA-1383,EE-01,LoanGiven,Customer,
+1312,AA-KS-NA-1561,G,LoanGiven,Family,
+1313,AA-KS-NA-1603,S,LoanGiven,Customer,
+1314,AA-KS-NA-2410,F,LoanGiven,Family,
+1315,AA-ME-HI-1013,Furniture,LoanGiven,Employee,
+1316,AA-ME-HI-1159,Printing and advertising,LoanGiven,Friend,
+1317,AA-ME-HI-1185,AD,LoanGiven,Customer,
+1318,AA-ME-HI-1198,Printing and advertising,LoanGiven,Friend,
+1319,AA-ME-HI-1262,Machinery rent,LoanGiven,Customer,
+1320,AA-ME-HI-1598,Leather product Production,LoanGiven,Customer,
+1321,AA-ME-HI-1600,Leather product production,LoanGiven,Family,
+1322,AA-SC-ET-1486,F,LoanGiven,Friend,
+1323,AA-SC-ET-1611,F,LoanGiven,Customer,
+1324,AA-YA-WN-2222,C-01,LoanGiven,Friend,
+1325,AD-AW-AM-0000,DD,LoanGiven,Friend,
+1326,AD-CE-TI-1719,AD,LoanGiven,Customer,
+1327,AD-CE-TI-1815,U-03,LoanGiven,Family,
+1328,AD-CE-TI-1874,N,LoanGiven,Friend,
+1329,AD-CN-KE-1812,DD,LoanGiven,Customer,
+1330,AD-CW-CH-1666,A,LoanGiven,Customer,
+1331,AD-CW-CH-1765,D,LoanGiven,Customer,
+1332,AD-CW-CH-1817,EE-01,LoanGiven,Customer,
+1333,AD-CW-CH-1905,U,LoanGiven,Friend,
+1334,AD-NO-TI-1757,AK-01,LoanGiven,Friend,
+1335,AD-SO-CH-2207,U-03,LoanGiven,Customer,
+1336,AD-SO-KE-1646,A,LoanGiven,Friend,
+1337,AD-SO-KE-2222,U-03,LoanGiven,Employee,
+1338,DD-ET-1918,A,LoanGiven,Customer,
+1339,DD-ET-1920,A,LoanGiven,Customer,
+1340,DD-ET-1930,AD,LoanGiven,Family,
+1341,DD-ET-1947,AQ,LoanGiven,Customer,
+1342,DD-ET-1948,D,LoanGiven,Friend,
+1343,DD-ET-1949,D,LoanGiven,Customer,
+1344,DD-ET-1956,DD,LoanGiven,Customer,
+1345,DD-ET-1957,DD,LoanGiven,Customer,
+1346,DD-ET-1959,G,LoanGiven,Customer,
+1347,DD-ET-1960,G,LoanGiven,Family,
+1348,DD-ET-1967,G-03,LoanGiven,Customer,
+1349,DD-ET-2332,V,LoanGiven,Customer,
+1350,HR-AL-2059,E,LoanGiven,Customer,
+1351,HR-AL-2157,N,LoanGiven,Customer,
+1352,HR-DE-2122,AQ,LoanGiven,Customer,
+1353,AA-BA-HE-1111,AE,Expense,Investments/assets,
+1354,AA-FE-ED-1009,A,Expense,Rent,
+1355,AA-FE-ED-1050,A,Expense,Rent,
+1356,AA-FE-HI-1051,A,Expense,Rent,
+1357,AA-FE-HI-1154,Photo studio,Expense,Other cost,
+1358,AA-FE-HI-2227,U-03,Expense,"Utility costs (electricity, water, …)",
+1359,AA-JS-SA-1282,AK-01,Expense,Wages/salaries workers,
+1360,AA-KC-ED-1475,F,Expense,"Utility costs (electricity, water, …)",
+1361,AA-KC-ED-1515,F,Expense,Raw materials,
+1362,AA-KC-ED-1592,S,Expense,"Utility costs (electricity, water, …)",
+1363,AA-KC-ED-1595,S,Expense,"Utility costs (electricity, water, …)",
+1364,AA-KC-ED-2385,X,Expense,Other cost,
+1365,AA-KE-ED-1005,A,Expense,Raw materials,
+1366,AA-KE-ED-1025,A,Expense,Raw materials,
+1367,AA-KE-ED-1036,A,Expense,Rent,
+1368,AA-KE-ED-1065,Wood and metal work,Expense,Fuel (for machines or vehicles),
+1369,AA-KE-ED-1593,leather production,Expense,Raw materials,
+1370,AA-KE-HI-1280,AK-01,Expense,Raw materials,
+1371,AA-KE-HI-1283,AK-01,Expense,Raw materials,
+1372,AA-KE-HI-1568,Husking and grinding,Expense,Rent,
+1373,AA-KE-HI-2311,Clinic,Expense,"Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)",
+1374,AA-KE-NA-1373,Printing and advertising,Expense,Raw materials,
+1375,AA-KE-NA-1615,U,Expense,Raw materials,
+1376,AA-KE-SA-1023,A,Expense,Raw materials,
+1377,AA-KE-SA-1043,A,Expense,Raw materials,
+1378,AA-KE-SA-1056,Carpenter,Expense,Raw materials,
+1379,AA-KG-SA-1012,D,Expense,Other cost,
+1380,AA-KG-SA-1020,A,Expense,Raw materials,
+1381,AA-KG-SA-1047,A,Expense,Raw materials,
+1382,AA-KG-SA-1059,A,Expense,"Transport, freight and storage/warehousing",
+1383,AA-KG-SA-1068,A,Expense,Rent,
+1384,AA-KG-SA-1083,D,Expense,Raw materials,
+1385,AA-KG-SA-1087,A,Expense,Raw materials,
+1386,AA-KG-SA-1312,D,Expense,Raw materials,
+1387,AA-KG-SA-1315,D,Expense,Raw materials,
+1388,AA-KG-SA-1317,D,Expense,Raw materials,
+1389,AA-KG-SA-1336,D,Expense,Rent,
+1390,AA-KG-SA-1342,D,Expense,Raw materials,
+1391,AA-KG-SA-1343,D,Expense,"Non-staff labour (maintenance, casual labor etc...)",
+1392,AA-KG-SA-1376,EE-01,Expense,Raw materials,
+1393,AA-KG-SA-1495,Garment production,Expense,Raw materials,
+1394,AA-KS-NA-1069,A,Expense,Raw materials,
+1395,AA-KS-NA-1086,A,Expense,Raw materials,
+1396,AA-KS-NA-1132,AD,Expense,Raw materials,
+1397,AA-KS-NA-1368,DD,Expense,"Utility costs (electricity, water, …)",
+1398,AA-KS-NA-1382,EE-01,Expense,Raw materials,
+1399,AA-KS-NA-1383,EE-01,Expense,Rent,
+1400,AA-KS-NA-1467,F,Expense,Raw materials,
+1401,AA-KS-NA-1551,G,Expense,"Utility costs (electricity, water, …)",
+1402,AA-KS-NA-1552,injera Production,Expense,Raw materials,
+1403,AA-KS-NA-1561,G,Expense,"Utility costs (electricity, water, …)",
+1404,AA-KS-NA-1603,S,Expense,Raw materials,
+1405,AA-KS-NA-2410,F,Expense,"Transport, freight and storage/warehousing",
+1406,AA-ME-HI-1013,Furniture,Expense,Raw materials,
+1407,AA-ME-HI-1159,Printing and advertising,Expense,Fuel (for machines or vehicles),
+1408,AA-ME-HI-1185,AD,Expense,Raw materials,
+1409,AA-ME-HI-1198,Printing and advertising,Expense,Raw materials,
+1410,AA-ME-HI-1262,Machinery rent,Expense,Fuel (for machines or vehicles),
+1411,AA-ME-HI-1454,Garment,Expense,Other cost,
+1412,AA-ME-HI-1466,Garment,Expense,Raw materials,
+1413,AA-ME-HI-1598,Leather product Production,Expense,Raw materials,
+1414,AA-ME-HI-1600,Leather product production,Expense,Other cost,
+1415,AA-SC-ET-1410,Pottery Production Works,Expense,Raw materials,
+1416,AA-SC-ET-1463,F,Expense,"Utility costs (electricity, water, …)",
+1417,AA-SC-ET-1476,F,Expense,"Utility costs (electricity, water, …)",
+1418,AA-SC-ET-1486,F,Expense,"Transport, freight and storage/warehousing",
+1419,AA-SC-ET-1496,F,Expense,"Utility costs (electricity, water, …)",
+1420,AA-SC-ET-1497,F,Expense,Raw materials,
+1421,AA-SC-ET-1519,F,Expense,"Utility costs (electricity, water, …)",
+1422,AA-SC-ET-1611,F,Expense,"Utility costs (electricity, water, …)",
+1423,AA-SC-ET-1631,X,Expense,"Bank costs (account maintenance, interest payments is part of loan section)",
+1424,AA-YA-ET-2414,DD,Expense,"Transport, freight and storage/warehousing",
+1425,AA-YA-ET-2415,DD,Expense,"Utility costs (electricity, water, …)",
+1426,AA-YA-WN-2222,C-01,Expense,"Maintenance, parts (non-labour maintenance costs)",
+1427,AD-AW-AM-0000,DD,Expense,Raw materials,
+1428,AD-CE-TI-1663,A,Expense,Raw materials,
+1429,AD-CE-TI-1719,AD,Expense,Raw materials,
+1430,AD-CE-TI-1815,U-03,Expense,Raw materials,
+1431,AD-CE-TI-1870,J-8,Expense,Raw materials,
+1432,AD-CE-TI-1874,N,Expense,Raw materials,
+1433,AD-CE-TI-2190,U-03,Expense,Raw materials,
+1434,AD-CE-TI-2234,U-03,Expense,Investments/assets,
+1435,AD-CN-CH-1683,A,Expense,Other significant expenses,
+1436,AD-CN-KE-1684,A,Expense,Raw materials,
+1437,AD-CN-KE-1686,A,Expense,Raw materials,
+1438,AD-CN-KE-1790,E,Expense,Raw materials,
+1439,AD-CN-KE-1804,DD,Expense,Raw materials,
+1440,AD-CN-KE-1811,DD,Expense,Raw materials,
+1441,AD-CN-KE-1812,DD,Expense,Raw materials,
+1442,AD-CN-KE-1877,N,Expense,"Maintenance, parts (non-labour maintenance costs)",
+1443,AD-CN-KE-1878,N,Expense,"Non-staff labour (maintenance, casual labor etc...)",
+1444,AD-CW-CH-1633,U-03,Expense,Raw materials,
+1445,AD-CW-CH-1666,A,Expense,Raw materials,
+1446,AD-CW-CH-1765,D,Expense,House/rent,
+1447,AD-CW-CH-1766,D,Expense,Raw materials,
+1448,AD-CW-CH-1778,D,Expense,Other cost,
+1449,AD-CW-CH-1817,EE-01,Expense,"Transport, freight and storage/warehousing",
+1450,AD-CW-CH-1904,U,Expense,School fees,
+1451,AD-CW-CH-1905,U,Expense,Food at home,
+1452,AD-CW-CH-2195,U-03,Expense,Wages/salaries workers,
+1453,AD-MO-KE-2183,U-03,Expense,Raw materials,
+1454,AD-MO-TI-1862,N,Expense,"Transport, freight and storage/warehousing",
+1455,AD-NO-TI-1757,AK-01,Expense,"Transport, freight and storage/warehousing",
+1456,AD-NO-TI-1798,DD,Expense,Raw materials,
+1457,AD-NO-TI-1800,DD,Expense,Raw materials,
+1458,AD-NO-TI-1873,N,Expense,"Professional services (accountants, recruitment services, advisors, …)",
+1459,AD-SO-CH-2207,U-03,Expense,Raw materials,
+1460,AD-SO-CH-2210,U-03,Expense,Rent,
+1461,AD-SO-KE-1646,A,Expense,Raw materials,
+1462,AD-SO-KE-2222,U-03,Expense,"Utility costs (electricity, water, …)",
+1463,AD-WE-CH-1858,H,Expense,Raw materials,
+1464,AD-WE-CH-1859,AQ,Expense,Clothing and shoes,
+1465,AD-WE-KE-1710,AD,Expense,Raw materials,
+1466,AD-WE-KE-1827,T,Expense,Rent,
+1467,AD-WE-KE-1832,T,Expense,Raw materials,
+1468,DD-ET-1918,A,Expense,Raw materials,
+1469,DD-ET-1920,A,Expense,Raw materials,
+1470,DD-ET-1930,AD,Expense,Raw materials,
+1471,DD-ET-1947,AQ,Expense,Raw materials,
+1472,DD-ET-1948,D,Expense,Raw materials,
+1473,DD-ET-1949,D,Expense,Raw materials,
+1474,DD-ET-1951,D,Expense,Raw materials,
+1475,DD-ET-1956,DD,Expense,Wages/salaries workers,
+1476,DD-ET-1957,DD,Expense,Wages/salaries workers,
+1477,DD-ET-1959,G,Expense,"Utility costs (electricity, water, …)",
+1478,DD-ET-1960,G,Expense,"Utility costs (electricity, water, …)",
+1479,DD-ET-1967,G-03,Expense,Raw materials,
+1480,DD-ET-2246,U-03,Expense,"Maintenance, parts (non-labour maintenance costs)",
+1481,DD-ET-2332,V,Expense,"Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)",
+1482,HR-AL-2007,A,Expense,Raw materials,
+1483,HR-AL-2035,D,Expense,"Utility costs (electricity, water, …)",
+1484,HR-AL-2045,D,Expense,"Utility costs (electricity, water, …)",
+1485,HR-AL-2059,E,Expense,Raw materials,
+1486,HR-AL-2075,F-01,Expense,Raw materials,
+1487,HR-AL-2090,F,Expense,Raw materials,
+1488,HR-AL-2107,G,Expense,Wages/salaries workers,
+1489,HR-AL-2115,G,Expense,"Transport, freight and storage/warehousing",
+1490,HR-AL-2132,N,Expense,"Utility costs (electricity, water, …)",
+1491,HR-AL-2135,N,Expense,"Utility costs (electricity, water, …)",
+1492,HR-AL-2143,N,Expense,"Utility costs (electricity, water, …)",
+1493,HR-AL-2151,N,Expense,"Utility costs (electricity, water, …)",
+1494,HR-AL-2157,N,Expense,Rent,
+1495,HR-AL-2169,X,Expense,Investments/assets,
+1496,HR-AL-2174,X,Expense,Rent,
+1497,HR-DE-1995,F,Expense,Raw materials,
+1498,HR-DE-1996,A,Expense,Rent,
+1499,HR-DE-2001,G,Expense,Fuel (for machines or vehicles),
+1500,HR-DE-2014,A,Expense,Raw materials,
+1501,HR-DE-2021,AD,Expense,Other cost,
+1502,HR-DE-2080,F,Expense,"Utility costs (electricity, water, …)",
+1503,HR-DE-2122,AQ,Expense,Fuel (for machines or vehicles),
+1504,HR-DE-2123,AQ,Expense,Other cost,
+1505,HR-DE-2127,M,Expense,Raw materials,
+1506,HR-DE-2128,M,Expense,Other cost,
+1507,HR-DE-2171,X,Expense,"Transport, freight and storage/warehousing",
+1508,HR-DE-2244,U,Expense,Investments/assets,
+1509,AA-BA-HE-1111,AE,Income,Income Source 3,
+1510,AA-FE-ED-1009,A,Income,Income Source 1,
+1511,AA-FE-ED-1050,A,Income,Income Source 1,
+1512,AA-FE-HI-1051,A,Income,Income Source 1,
+1513,AA-FE-HI-1154,Photo studio,Income,Income Source 1,
+1514,AA-FE-HI-2227,U-03,Income,Income Source 1,
+1515,AA-JS-SA-1282,AK-01,Income,Income Source 1,
+1516,AA-KC-ED-1475,F,Income,Income Source 1,
+1517,AA-KC-ED-1515,F,Income,Income Source 1,
+1518,AA-KC-ED-1592,S,Income,Income Source 1,
+1519,AA-KC-ED-1595,S,Income,Income Source 1,
+1520,AA-KC-ED-2385,X,Income,Income Source 1,
+1521,AA-KE-ED-1005,A,Income,Income Source 1,
+1522,AA-KE-ED-1025,A,Income,Income Source 1,
+1523,AA-KE-ED-1036,A,Income,Income Source 1,
+1524,AA-KE-ED-1065,Wood and metal work,Income,Income Source 1,
+1525,AA-KE-ED-1593,leather production,Income,Income Source 1,
+1526,AA-KE-HI-1280,AK-01,Income,Income Source 1,
+1527,AA-KE-HI-1283,AK-01,Income,Income Source 1,
+1528,AA-KE-HI-1568,Husking and grinding,Income,Income Source 1,
+1529,AA-KE-HI-2311,Clinic,Income,Income Source 1,
+1530,AA-KE-NA-1373,Printing and advertising,Income,Income Source 1,
+1531,AA-KE-NA-1615,U,Income,Income Source 1,
+1532,AA-KE-SA-1023,A,Income,Income Source 1,
+1533,AA-KE-SA-1043,A,Income,Income Source 1,
+1534,AA-KE-SA-1056,Carpenter,Income,Income Source 1,
+1535,AA-KG-SA-1012,D,Income,Income Source 1,
+1536,AA-KG-SA-1020,A,Income,Income Source 1,
+1537,AA-KG-SA-1047,A,Income,Income Source 1,
+1538,AA-KG-SA-1059,A,Income,Income Source 1,
+1539,AA-KG-SA-1068,A,Income,Income Source 1,
+1540,AA-KG-SA-1083,D,Income,Income Source 1,
+1541,AA-KG-SA-1087,A,Income,Income Source 1,
+1542,AA-KG-SA-1312,D,Income,Income Source 1,
+1543,AA-KG-SA-1315,D,Income,Income Source 1,
+1544,AA-KG-SA-1317,D,Income,Income Source 1,
+1545,AA-KG-SA-1336,D,Income,Income Source 1,
+1546,AA-KG-SA-1342,D,Income,Income Source 1,
+1547,AA-KG-SA-1343,D,Income,Income Source 1,
+1548,AA-KG-SA-1376,EE-01,Income,Income Source 1,
+1549,AA-KG-SA-1495,Garment production,Income,Income Source 1,
+1550,AA-KS-NA-1069,A,Income,Income Source 1,
+1551,AA-KS-NA-1086,A,Income,Income Source 1,
+1552,AA-KS-NA-1132,AD,Income,Income Source 1,
+1553,AA-KS-NA-1368,DD,Income,Income Source 1,
+1554,AA-KS-NA-1382,EE-01,Income,Income Source 1,
+1555,AA-KS-NA-1383,EE-01,Income,Income Source 1,
+1556,AA-KS-NA-1467,F,Income,Income Source 1,
+1557,AA-KS-NA-1551,G,Income,Income Source 1,
+1558,AA-KS-NA-1552,injera Production,Income,Income Source 1,
+1559,AA-KS-NA-1561,G,Income,Income Source 1,
+1560,AA-KS-NA-1603,S,Income,Income Source 1,
+1561,AA-KS-NA-2410,F,Income,Income Source 1,
+1562,AA-ME-HI-1013,Furniture,Income,Income Source 1,
+1563,AA-ME-HI-1159,Printing and advertising,Income,Income Source 1,
+1564,AA-ME-HI-1185,AD,Income,Income Source 1,
+1565,AA-ME-HI-1262,Machinery rent,Income,Income Source 1,
+1566,AA-ME-HI-1454,Garment,Income,Income Source 1,
+1567,AA-ME-HI-1466,Garment,Income,Income Source 1,
+1568,AA-ME-HI-1598,Leather product Production,Income,Income Source 1,
+1569,AA-ME-HI-1600,Leather product production,Income,Income Source 1,
+1570,AA-SC-ET-1410,Pottery Production Works,Income,Income Source 1,
+1571,AA-SC-ET-1463,F,Income,Income Source 1,
+1572,AA-SC-ET-1476,F,Income,Income Source 1,
+1573,AA-SC-ET-1486,F,Income,Income Source 1,
+1574,AA-SC-ET-1496,F,Income,Income Source 1,
+1575,AA-SC-ET-1497,F,Income,Income Source 1,
+1576,AA-SC-ET-1519,F,Income,Income Source 1,
+1577,AA-SC-ET-1611,F,Income,Income Source 1,
+1578,AA-SC-ET-1631,X,Income,Income Source 1,
+1579,AA-YA-ET-2414,DD,Income,Income Source 1,
+1580,AA-YA-ET-2415,DD,Income,Income Source 1,
+1581,AA-YA-WN-2222,C-01,Income,Income Source 1,
+1582,AD-AW-AM-0000,DD,Income,Income Source 1,
+1583,AD-CE-TI-1663,A,Income,Income Source 1,
+1584,AD-CE-TI-1719,AD,Income,Income Source 2,
+1585,AD-CE-TI-1815,U-03,Income,Income Source 1,
+1586,AD-CE-TI-1870,J-8,Income,Income Source 1,
+1587,AD-CE-TI-1874,N,Income,Income Source 1,
+1588,AD-CE-TI-2190,U-03,Income,Income Source 1,
+1589,AD-CE-TI-2234,U-03,Income,Income Source 1,
+1590,AD-CN-CH-1683,A,Income,Income Source 1,
+1591,AD-CN-KE-1684,A,Income,Income Source 1,
+1592,AD-CN-KE-1686,A,Income,Income Source 1,
+1593,AD-CN-KE-1790,E,Income,Income Source 1,
+1594,AD-CN-KE-1804,DD,Income,Income Source 1,
+1595,AD-CN-KE-1811,DD,Income,Income Source 1,
+1596,AD-CN-KE-1812,DD,Income,Income Source 1,
+1597,AD-CN-KE-1877,N,Income,Income Source 1,
+1598,AD-CN-KE-1878,N,Income,Income Source 1,
+1599,AD-CW-CH-1633,U-03,Income,Income Source 1,
+1600,AD-CW-CH-1666,A,Income,Income Source 1,
+1601,AD-CW-CH-1765,D,Income,Income Source 1,
+1602,AD-CW-CH-1766,D,Income,Income Source 1,
+1603,AD-CW-CH-1778,D,Income,Income Source 1,
+1604,AD-CW-CH-1817,EE-01,Income,Income Source 1,
+1605,AD-CW-CH-1904,U,Income,Income Source 1,
+1606,AD-CW-CH-1905,U,Income,Income Source 1,
+1607,AD-CW-CH-2195,U-03,Income,Income Source 1,
+1608,AD-MO-KE-2183,U-03,Income,Income Source 1,
+1609,AD-MO-TI-1862,N,Income,Income Source 1,
+1610,AD-NO-TI-1757,AK-01,Income,Income Source 1,
+1611,AD-NO-TI-1798,DD,Income,Income Source 1,
+1612,AD-NO-TI-1800,DD,Income,Income Source 1,
+1613,AD-NO-TI-1873,N,Income,Income Source 1,
+1614,AD-SO-CH-2207,U-03,Income,Income Source 1,
+1615,AD-SO-CH-2210,U-03,Income,Income Source 1,
+1616,AD-SO-KE-1646,A,Income,Income Source 1,
+1617,AD-SO-KE-2222,U-03,Income,Income Source 1,
+1618,AD-WE-CH-1858,H,Income,Income Source 1,
+1619,AD-WE-CH-1859,AQ,Income,Income Source 1,
+1620,AD-WE-KE-1710,AD,Income,Income Source 1,
+1621,AD-WE-KE-1827,T,Income,Income Source 1,
+1622,AD-WE-KE-1832,T,Income,Income Source 1,
+1623,DD-ET-1918,A,Income,Income Source 1,
+1624,DD-ET-1920,A,Income,Income Source 1,
+1625,DD-ET-1930,AD,Income,Income Source 1,
+1626,DD-ET-1947,AQ,Income,Income Source 1,
+1627,DD-ET-1948,D,Income,Income Source 1,
+1628,DD-ET-1949,D,Income,Income Source 1,
+1629,DD-ET-1951,D,Income,Income Source 1,
+1630,DD-ET-1956,DD,Income,Income Source 1,
+1631,DD-ET-1957,DD,Income,Income Source 1,
+1632,DD-ET-1959,G,Income,Income Source 1,
+1633,DD-ET-1960,G,Income,Income Source 1,
+1634,DD-ET-1967,G-03,Income,Income Source 1,
+1635,DD-ET-2194,U-03,Income,Income Source 1,
+1636,DD-ET-2246,U-03,Income,Income Source 1,
+1637,DD-ET-2332,V,Income,Income Source 1,
+1638,HR-AL-2007,A,Income,Income Source 1,
+1639,HR-AL-2035,D,Income,Income Source 1,
+1640,HR-AL-2045,D,Income,Income Source 1,
+1641,HR-AL-2059,E,Income,Income Source 1,
+1642,HR-AL-2075,F-01,Income,Income Source 1,
+1643,HR-AL-2090,F,Income,Income Source 1,
+1644,HR-AL-2107,G,Income,Income Source 1,
+1645,HR-AL-2115,G,Income,Income Source 1,
+1646,HR-AL-2132,N,Income,Income Source 1,
+1647,HR-AL-2135,N,Income,Income Source 1,
+1648,HR-AL-2143,N,Income,Income Source 1,
+1649,HR-AL-2151,N,Income,Income Source 1,
+1650,HR-AL-2157,N,Income,Income Source 1,
+1651,HR-AL-2169,X,Income,Income Source 1,
+1652,HR-AL-2174,X,Income,Income Source 1,
+1653,HR-DE-1995,F,Income,Income Source 1,
+1654,HR-DE-1996,A,Income,Income Source 1,
+1655,HR-DE-2001,G,Income,Income Source 1,
+1656,HR-DE-2014,A,Income,Income Source 1,
+1657,HR-DE-2021,AD,Income,Income Source 1,
+1658,HR-DE-2080,F,Income,Income Source 1,
+1659,HR-DE-2122,AQ,Income,Income Source 1,
+1660,HR-DE-2123,AQ,Income,Income Source 1,
+1661,HR-DE-2127,M,Income,Income Source 1,
+1662,HR-DE-2128,M,Income,Income Source 1,
+1663,HR-DE-2171,X,Income,Income Source 1,
+1664,HR-DE-2244,U,Income,Income Source 1,
+1665,AA-FE-ED-1009,A,LoanTaken,Supplier,
+1666,AA-FE-ED-1050,A,LoanTaken,Friends,
+1667,AA-FE-HI-1051,A,LoanTaken,Friends,
+1668,AA-FE-HI-2227,U-03,LoanTaken,Government bank,
+1669,AA-JS-SA-1282,AK-01,LoanTaken,Commercial bank,
+1670,AA-KC-ED-1515,F,LoanTaken,SACCO/Cooperative,
+1671,AA-KC-ED-1592,S,LoanTaken,Commercial bank,
+1672,AA-KC-ED-1595,S,LoanTaken,SACCO/Cooperative,
+1673,AA-KE-ED-1005,A,LoanTaken,Supplier,
+1674,AA-KE-ED-1025,A,LoanTaken,Friends,
+1675,AA-KE-ED-1036,A,LoanTaken,Vendor,
+1676,AA-KE-ED-1593,leather production,LoanTaken,Family,
+1677,AA-KE-HI-1280,AK-01,LoanTaken,MFI,
+1678,AA-KE-HI-1568,Husking and grinding,LoanTaken,Supplier,
+1679,AA-KE-HI-2311,Clinic,LoanTaken,Supplier,
+1680,AA-KE-NA-1615,U,LoanTaken,MFI,
+1681,AA-KE-SA-1023,A,LoanTaken,MFI,
+1682,AA-KG-SA-1020,A,LoanTaken,Other (specify),
+1683,AA-KG-SA-1315,D,LoanTaken,Friends,
+1684,AA-KG-SA-1342,D,LoanTaken,Other (specify),
+1685,AA-KG-SA-1343,D,LoanTaken,"Merchandiser, incl. buy-now-pay-later",
+1686,AA-KG-SA-1376,EE-01,LoanTaken,Other (specify),
+1687,AA-KG-SA-1495,Garment production,LoanTaken,Deposit taking microfinance (MDI),
+1688,AA-KS-NA-1069,A,LoanTaken,"Informal savings group (used for business, VSLA, Equb, Edir …)",
+1689,AA-KS-NA-1086,A,LoanTaken,Friends,
+1690,AA-KS-NA-1132,AD,LoanTaken,Family,
+1691,AA-KS-NA-1368,DD,LoanTaken,Family,
+1692,AA-KS-NA-1382,EE-01,LoanTaken,SACCO/Cooperative,
+1693,AA-KS-NA-1383,EE-01,LoanTaken,SACCO/Cooperative,
+1694,AA-KS-NA-1551,G,LoanTaken,Supplier,
+1695,AA-KS-NA-1552,injera Production,LoanTaken,Supplier,
+1696,AA-KS-NA-1561,G,LoanTaken,Family,
+1697,AA-KS-NA-1603,S,LoanTaken,Deposit taking microfinance (MDI),
+1698,AA-ME-HI-1013,Furniture,LoanTaken,MFI,
+1699,AA-ME-HI-1159,Printing and advertising,LoanTaken,Commercial bank,
+1700,AA-ME-HI-1198,Printing and advertising,LoanTaken,Friends,
+1701,AA-ME-HI-1454,Garment,LoanTaken,Supplier,
+1702,AA-ME-HI-1466,Garment,LoanTaken,Supplier,
+1703,AA-ME-HI-1598,Leather product Production,LoanTaken,MFI,
+1704,AA-ME-HI-1600,Leather product production,LoanTaken,Commercial bank,
+1705,AA-SC-ET-1496,F,LoanTaken,SACCO/Cooperative,
+1706,AA-SC-ET-1519,F,LoanTaken,SACCO/Cooperative,
+1707,AA-SC-ET-1631,X,LoanTaken,SACCO/Cooperative,
+1708,AA-YA-WN-2222,C-01,LoanTaken,SACCO/Cooperative,
+1709,AD-AW-AM-0000,DD,LoanTaken,Friends,
+1710,AD-CE-TI-1663,A,LoanTaken,Friends,
+1711,AD-CE-TI-1719,AD,LoanTaken,Commercial bank,
+1712,AD-CE-TI-1870,J-8,LoanTaken,Deposit taking microfinance (MDI),
+1713,AD-CN-KE-1804,DD,LoanTaken,Commercial bank,
+1714,AD-CW-CH-1666,A,LoanTaken,Family,
+1715,AD-CW-CH-1817,EE-01,LoanTaken,Family,
+1716,AD-CW-CH-1904,U,LoanTaken,MFI,
+1717,AD-CW-CH-2195,U-03,LoanTaken,Friends,
+1718,AD-MO-KE-2183,U-03,LoanTaken,Commercial bank,
+1719,AD-SO-CH-2207,U-03,LoanTaken,Friends,
+1720,AD-SO-KE-2222,U-03,LoanTaken,Family,
+1721,DD-ET-1918,A,LoanTaken,MFI,
+1722,DD-ET-1920,A,LoanTaken,Supplier,
+1723,DD-ET-1930,AD,LoanTaken,Friends,
+1724,DD-ET-1947,AQ,LoanTaken,Friends,
+1725,DD-ET-1948,D,LoanTaken,"Informal savings group (used for business, VSLA, Equb, Edir …)",
+1726,DD-ET-1949,D,LoanTaken,Government bank,
+1727,DD-ET-1956,DD,LoanTaken,Deposit taking microfinance (MDI),
+1728,DD-ET-1957,DD,LoanTaken,MFI,
+1729,DD-ET-1959,G,LoanTaken,Vendor,
+1730,DD-ET-1960,G,LoanTaken,Vendor,
+1731,DD-ET-2332,V,LoanTaken,Family,
+1732,HR-AL-2059,E,LoanTaken,Family,
+1733,HR-AL-2090,F,LoanTaken,Vendor,
+1734,HR-AL-2107,G,LoanTaken,Vendor,
+1735,HR-AL-2115,G,LoanTaken,Friends,
+1736,HR-AL-2151,N,LoanTaken,Vendor,
+1737,HR-AL-2157,N,LoanTaken,Vendor,
+1738,HR-DE-1996,A,LoanTaken,Commercial bank,
+1739,HR-DE-2127,M,LoanTaken,Friends,
+1740,HR-DE-2128,M,LoanTaken,Vendor,
+1741,AA-BA-HE-1111,AE,LoanGiven,Friend,200
+1742,AA-FE-ED-1050,A,LoanGiven,Customer,50000
+1743,AA-FE-HI-1051,A,LoanGiven,Customer,7500
+1744,AA-FE-HI-2227,U-03,LoanGiven,Friend,0
+1745,AA-JS-SA-1282,AK-01,LoanGiven,Friend,1000
+1746,AA-KC-ED-1592,S,LoanGiven,Customer,1800
+1747,AA-KE-ED-1005,A,LoanGiven,Customer,13500
+1748,AA-KE-ED-1036,A,LoanGiven,Customer,0
+1749,AA-KE-HI-1568,Husking and grinding,LoanGiven,Customer,32200
+1750,AA-KE-NA-1373,Printing and advertising,LoanGiven,Customer,15000
+1751,AA-KE-SA-1023,A,LoanGiven,Customer,7500
+1752,AA-KE-SA-1056,Carpenter,LoanGiven,Customer,180000
+1753,AA-KG-SA-1012,D,LoanGiven,Customer,0
+1754,AA-KG-SA-1068,A,LoanGiven,Friend,0
+1755,AA-KG-SA-1087,A,LoanGiven,Friend,40000
+1756,AA-KG-SA-1315,D,LoanGiven,Friend,0
+1757,AA-KG-SA-1317,D,LoanGiven,Friend,220000
+1758,AA-KG-SA-1376,EE-01,LoanGiven,Friend,0
+1759,AA-KG-SA-1495,Garment production,LoanGiven,Friend,40000
+1760,AA-KS-NA-1086,A,LoanGiven,Customer,0
+1761,AA-KS-NA-1132,AD,LoanGiven,Family,261000
+1762,AA-KS-NA-1383,EE-01,LoanGiven,Customer,10000
+1763,AA-KS-NA-1561,G,LoanGiven,Family,5000
+1764,AA-KS-NA-1603,S,LoanGiven,Customer,5000
+1765,AA-KS-NA-2410,F,LoanGiven,Family,40000
+1766,AA-ME-HI-1013,Furniture,LoanGiven,Employee,2000
+1767,AA-ME-HI-1159,Printing and advertising,LoanGiven,Friend,35000
+1768,AA-ME-HI-1185,AD,LoanGiven,Customer,90000
+1769,AA-ME-HI-1198,Printing and advertising,LoanGiven,Friend,70000
+1770,AA-ME-HI-1262,Machinery rent,LoanGiven,Customer,48000
+1771,AA-ME-HI-1598,Leather product Production,LoanGiven,Customer,208880
+1772,AA-ME-HI-1600,Leather product production,LoanGiven,Family,50000
+1773,AA-SC-ET-1486,F,LoanGiven,Friend,6700
+1774,AA-SC-ET-1611,F,LoanGiven,Customer,0
+1775,AA-YA-WN-2222,C-01,LoanGiven,Friend,0
+1776,AD-AW-AM-0000,DD,LoanGiven,Friend,10000
+1777,AD-CE-TI-1719,AD,LoanGiven,Customer,0
+1778,AD-CE-TI-1815,U-03,LoanGiven,Family,6000
+1779,AD-CE-TI-1874,N,LoanGiven,Friend,6000
+1780,AD-CN-KE-1812,DD,LoanGiven,Customer,0
+1781,AD-CW-CH-1666,A,LoanGiven,Customer,3000
+1782,AD-CW-CH-1765,D,LoanGiven,Customer,10000
+1783,AD-CW-CH-1817,EE-01,LoanGiven,Customer,336
+1784,AD-CW-CH-1905,U,LoanGiven,Friend,7000
+1785,AD-NO-TI-1757,AK-01,LoanGiven,Friend,8000
+1786,AD-SO-CH-2207,U-03,LoanGiven,Customer,18000
+1787,AD-SO-KE-1646,A,LoanGiven,Friend,6500
+1788,AD-SO-KE-2222,U-03,LoanGiven,Employee,5700
+1789,DD-ET-1918,A,LoanGiven,Customer,200
+1790,DD-ET-1920,A,LoanGiven,Customer,2000
+1791,DD-ET-1930,AD,LoanGiven,Family,200000
+1792,DD-ET-1947,AQ,LoanGiven,Customer,0
+1793,DD-ET-1948,D,LoanGiven,Friend,7900
+1794,DD-ET-1949,D,LoanGiven,Customer,0
+1795,DD-ET-1956,DD,LoanGiven,Customer,1093
+1796,DD-ET-1957,DD,LoanGiven,Customer,0
+1797,DD-ET-1959,G,LoanGiven,Customer,0
+1798,DD-ET-1960,G,LoanGiven,Family,0
+1799,DD-ET-1967,G-03,LoanGiven,Customer,0
+1800,DD-ET-2332,V,LoanGiven,Customer,400
+1801,HR-AL-2059,E,LoanGiven,Customer,0
+1802,HR-AL-2157,N,LoanGiven,Customer,3000
+1803,HR-DE-2122,AQ,LoanGiven,Customer,10000
