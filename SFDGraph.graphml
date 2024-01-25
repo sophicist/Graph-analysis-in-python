@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="color" attr.type="string"/>
-<key id="d4" for="edge" attr.name="amount" attr.type="double"/>
-<key id="d3" for="edge" attr.name="type" attr.type="string"/>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="color" attr.type="string"/>
+<key id="d5" for="edge" attr.name="amount" attr.type="double"/>
+<key id="d4" for="edge" attr.name="type" attr.type="string"/>
+<key id="d3" for="node" attr.name="size" attr.type="double"/>
 <key id="d2" for="node" attr.name="color" attr.type="string"/>
 <key id="d1" for="node" attr.name="IDS" attr.type="string"/>
 <key id="d0" for="node" attr.name="size" attr.type="long"/>
@@ -791,2356 +792,2392 @@
   <data key="d2">#E4A307</data>
 </node>
 <node id="Investments/assets">
+  <data key="d3">1500.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Rent">
+  <data key="d3">10500.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Other cost">
+  <data key="d3">120.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Utility costs (electricity, water, …)">
+  <data key="d3">190.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Wages/salaries workers">
+  <data key="d3">1500.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Raw materials">
+  <data key="d3">350.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Fuel (for machines or vehicles)">
+  <data key="d3">600.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)">
+  <data key="d3">6050.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Transport, freight and storage/warehousing">
+  <data key="d3">70.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Non-staff labour (maintenance, casual labor etc...)">
+  <data key="d3">17000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Bank costs (account maintenance, interest payments is part of loan section)">
+  <data key="d3">5000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Maintenance, parts (non-labour maintenance costs)">
+  <data key="d3">200.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Other significant expenses">
+  <data key="d3">3000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="House/rent">
+  <data key="d3">2000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="School fees">
+  <data key="d3">1300.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Food at home">
+  <data key="d3">10000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Professional services (accountants, recruitment services, advisors, …)">
+  <data key="d3">400.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Clothing and shoes">
+  <data key="d3">6000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Income Source 3">
+  <data key="d3">370.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Income Source 1">
+  <data key="d3">1300.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Income Source 2">
+  <data key="d3">49220.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Supplier">
+  <data key="d3">3000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Friends">
+  <data key="d3">30000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Government bank">
+  <data key="d3">666000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Commercial bank">
+  <data key="d3">1000000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="SACCO/Cooperative">
+  <data key="d3">200000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Vendor">
+  <data key="d3">3000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Family">
+  <data key="d3">50000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="MFI">
+  <data key="d3">250000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Other (specify)">
+  <data key="d3">15000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Merchandiser, incl. buy-now-pay-later">
+  <data key="d3">1700.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Deposit taking microfinance (MDI)">
+  <data key="d3">40000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Informal savings group (used for business, VSLA, Equb, Edir …)">
+  <data key="d3">30000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Friend">
+  <data key="d3">7900.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Customer">
+  <data key="d3">10000.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <node id="Employee">
+  <data key="d3">5700.0</data>
   <data key="d2">#00AE9F</data>
 </node>
 <edge source="AA-BA-HE-1111" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">200.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">200.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-BA-HE-1111" target="Income Source 3">
-  <data key="d3">Income</data>
-  <data key="d4">370.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">370.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-BA-HE-1111" target="Investments/assets">
-  <data key="d3">Expense</data>
-  <data key="d4">600.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">600.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-FE-ED-1009" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">25000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">25000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-FE-ED-1009" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">15000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">15000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-FE-ED-1009" target="Supplier">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-FE-ED-1050" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">50000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">50000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-FE-ED-1050" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">50000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">50000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-FE-ED-1050" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">30000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">30000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-FE-ED-1050" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">15000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">15000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-FE-HI-1051" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">7500.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">7500.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-FE-HI-1051" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">100000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">100000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-FE-HI-1051" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">11000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">11000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-FE-HI-1051" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">24000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">24000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-FE-HI-1154" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">600.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">600.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-FE-HI-1154" target="Other cost">
-  <data key="d3">Expense</data>
-  <data key="d4">1500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-FE-HI-2227" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-FE-HI-2227" target="Government bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">1600000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">1600000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-FE-HI-2227" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-FE-HI-2227" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">930.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">930.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-JS-SA-1282" target="Commercial bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">40000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">40000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-JS-SA-1282" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-JS-SA-1282" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2300.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2300.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-JS-SA-1282" target="Wages/salaries workers">
-  <data key="d3">Expense</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KC-ED-1475" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KC-ED-1475" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">45.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">45.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KC-ED-1515" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">70000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">70000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KC-ED-1515" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">30000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">30000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KC-ED-1515" target="SACCO/Cooperative">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">300000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">300000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KC-ED-1592" target="Commercial bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">40000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">40000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KC-ED-1592" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">1800.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">1800.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KC-ED-1592" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">4500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">4500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KC-ED-1592" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">200.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">200.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KC-ED-1595" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">30000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">30000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KC-ED-1595" target="SACCO/Cooperative">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">200000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">200000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KC-ED-1595" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">150.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">150.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KC-ED-2385" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">23000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">23000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KC-ED-2385" target="Other cost">
-  <data key="d3">Expense</data>
-  <data key="d4">19.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">19.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-ED-1005" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">13500.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">13500.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KE-ED-1005" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">14330.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">14330.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-ED-1005" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">6000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">6000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-ED-1005" target="Supplier">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">31000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">31000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KE-ED-1025" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">9800.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">9800.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KE-ED-1025" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">12000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">12000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-ED-1025" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">22500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">22500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-ED-1036" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KE-ED-1036" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">15000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">15000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-ED-1036" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">300.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">300.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-ED-1036" target="Vendor">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">16200.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">16200.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KE-ED-1065" target="Fuel (for machines or vehicles)">
-  <data key="d3">Expense</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-ED-1065" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">30000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">30000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-ED-1593" target="Family">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">7000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">7000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KE-ED-1593" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-ED-1593" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-HI-1280" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">960.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">960.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-HI-1280" target="MFI">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">300000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">300000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KE-HI-1280" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">100.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">100.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-HI-1283" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">7000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">7000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-HI-1283" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-HI-1568" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">32200.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">32200.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KE-HI-1568" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-HI-1568" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-HI-1568" target="Supplier">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">65000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">65000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KE-HI-2311" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">15000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">15000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-HI-2311" target="Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)">
-  <data key="d3">Expense</data>
-  <data key="d4">1600.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1600.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-HI-2311" target="Supplier">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">2485.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">2485.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KE-NA-1373" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">15000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">15000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KE-NA-1373" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">240.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">240.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-NA-1373" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-NA-1615" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">980.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">980.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-NA-1615" target="MFI">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">150000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">150000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KE-NA-1615" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">2100.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">2100.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-SA-1023" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">7500.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">7500.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KE-SA-1023" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">16100.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">16100.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-SA-1023" target="MFI">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">200000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">200000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KE-SA-1023" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">7840.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">7840.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-SA-1043" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">9450.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">9450.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-SA-1043" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">700.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">700.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KE-SA-1056" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">180000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">180000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KE-SA-1056" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">160000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">160000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KE-SA-1056" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">3500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1012" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KG-SA-1012" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1012" target="Other cost">
-  <data key="d3">Expense</data>
-  <data key="d4">350.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">350.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1020" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1200.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1200.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1020" target="Other (specify)">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KG-SA-1020" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">800.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">800.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1047" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1047" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1059" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1059" target="Transport, freight and storage/warehousing">
-  <data key="d3">Expense</data>
-  <data key="d4">750.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">750.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1068" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KG-SA-1068" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1068" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1083" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">9000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">9000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1083" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">8900.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">8900.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1087" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">40000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">40000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KG-SA-1087" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1087" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">20000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">20000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1312" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1312" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1315" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KG-SA-1315" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">350000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">350000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KG-SA-1315" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">829221.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">829221.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1315" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">25000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">25000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1317" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">220000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">220000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KG-SA-1317" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">33200.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">33200.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1317" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">16190.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">16190.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1336" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">15000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">15000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1336" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">1600.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1600.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1342" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">349000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">349000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1342" target="Other (specify)">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KG-SA-1342" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">100000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">100000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1343" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1343" target="Merchandiser, incl. buy-now-pay-later">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">1700.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">1700.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KG-SA-1343" target="Non-staff labour (maintenance, casual labor etc...)">
-  <data key="d3">Expense</data>
-  <data key="d4">500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1376" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KG-SA-1376" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">88720.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">88720.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1376" target="Other (specify)">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">15000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">15000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KG-SA-1376" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">12000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">12000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KG-SA-1495" target="Deposit taking microfinance (MDI)">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">269000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">269000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KG-SA-1495" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">40000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">40000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KG-SA-1495" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">7000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">7000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KG-SA-1495" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">6000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">6000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1069" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1069" target="Informal savings group (used for business, VSLA, Equb, Edir …)">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">32000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">32000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1069" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1086" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KS-NA-1086" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1086" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">32000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">32000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1086" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">19000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">19000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1132" target="Family">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">322330.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">322330.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1132" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">8065.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">8065.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1132" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">20000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">20000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1368" target="Family">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">75000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">75000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1368" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">9000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">9000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1368" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">700.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">700.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1382" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">7200.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">7200.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1382" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">12000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">12000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1382" target="SACCO/Cooperative">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">100000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">100000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1383" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KS-NA-1383" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">13816.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">13816.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1383" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">2800.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">2800.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1383" target="SACCO/Cooperative">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">400000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">400000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1467" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">100000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">100000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1467" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1200.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1200.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1551" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1250.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1250.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1551" target="Supplier">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">4200.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">4200.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1551" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1552" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">600.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">600.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1552" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">4000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">4000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1552" target="Supplier">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">1700.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">1700.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1561" target="Family">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">60000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">60000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1561" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">660.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">660.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1561" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">250.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">250.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-1603" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KS-NA-1603" target="Deposit taking microfinance (MDI)">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">60000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">60000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-KS-NA-1603" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">520.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">520.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-1603" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1300.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1300.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-KS-NA-2410" target="Family">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">40000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">40000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-KS-NA-2410" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">17500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">17500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-KS-NA-2410" target="Transport, freight and storage/warehousing">
-  <data key="d3">Expense</data>
-  <data key="d4">106.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">106.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-ME-HI-1013" target="Employee">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-ME-HI-1013" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">31000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">31000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-ME-HI-1013" target="MFI">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">100000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">100000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-ME-HI-1013" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">21000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">21000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-ME-HI-1159" target="Commercial bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">1200000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">1200000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-ME-HI-1159" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">35000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">35000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-ME-HI-1159" target="Fuel (for machines or vehicles)">
-  <data key="d3">Expense</data>
-  <data key="d4">500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-ME-HI-1159" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">4035.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">4035.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-ME-HI-1185" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">90000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">90000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-ME-HI-1185" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">8000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">8000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-ME-HI-1185" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">250000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">250000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-ME-HI-1198" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">70000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">70000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-ME-HI-1198" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">400000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">400000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-ME-HI-1198" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">40000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">40000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-ME-HI-1262" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">48000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">48000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-ME-HI-1262" target="Fuel (for machines or vehicles)">
-  <data key="d3">Expense</data>
-  <data key="d4">800.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">800.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-ME-HI-1262" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-ME-HI-1454" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">20000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">20000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-ME-HI-1454" target="Other cost">
-  <data key="d3">Expense</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-ME-HI-1454" target="Supplier">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">300000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">300000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-ME-HI-1466" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">76000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">76000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-ME-HI-1466" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">86000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">86000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-ME-HI-1466" target="Supplier">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">220000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">220000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-ME-HI-1598" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">208880.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">208880.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-ME-HI-1598" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-ME-HI-1598" target="MFI">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">700000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">700000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-ME-HI-1598" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-ME-HI-1600" target="Commercial bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">200000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">200000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-ME-HI-1600" target="Family">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">50000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">50000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-ME-HI-1600" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">12546.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">12546.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-ME-HI-1600" target="Other cost">
-  <data key="d3">Expense</data>
-  <data key="d4">3350.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3350.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1410" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1200.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1200.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-SC-ET-1410" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">150.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">150.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1463" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-SC-ET-1463" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1476" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-SC-ET-1476" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">200.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">200.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1486" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">6700.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">6700.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-SC-ET-1486" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1350.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1350.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-SC-ET-1486" target="Transport, freight and storage/warehousing">
-  <data key="d3">Expense</data>
-  <data key="d4">500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1496" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">27000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">27000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-SC-ET-1496" target="SACCO/Cooperative">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">200000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">200000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-SC-ET-1496" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">250.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">250.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1497" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">3100.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">3100.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-SC-ET-1497" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">3500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1519" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">4500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">4500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-SC-ET-1519" target="SACCO/Cooperative">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">120000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">120000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-SC-ET-1519" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1611" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-SC-ET-1611" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">6000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">6000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-SC-ET-1611" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">200.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">200.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1631" target="Bank costs (account maintenance, interest payments is part of loan section)">
-  <data key="d3">Expense</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-SC-ET-1631" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">7000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">7000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-SC-ET-1631" target="SACCO/Cooperative">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">80000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">80000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AA-YA-ET-2414" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">3879.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">3879.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-YA-ET-2414" target="Transport, freight and storage/warehousing">
-  <data key="d3">Expense</data>
-  <data key="d4">7200.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">7200.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-YA-ET-2415" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">4750.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">4750.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-YA-ET-2415" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">322.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">322.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-YA-WN-2222" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AA-YA-WN-2222" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">17412.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">17412.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AA-YA-WN-2222" target="Maintenance, parts (non-labour maintenance costs)">
-  <data key="d3">Expense</data>
-  <data key="d4">6000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">6000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AA-YA-WN-2222" target="SACCO/Cooperative">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">200000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">200000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-AW-AM-0000" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-AW-AM-0000" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-AW-AM-0000" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-AW-AM-0000" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">6000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">6000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CE-TI-1663" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">250000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">250000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-CE-TI-1663" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">50000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">50000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CE-TI-1663" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">40000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">40000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CE-TI-1719" target="Commercial bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">1200000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">1200000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-CE-TI-1719" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-CE-TI-1719" target="Income Source 2">
-  <data key="d3">Income</data>
-  <data key="d4">49220.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">49220.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CE-TI-1719" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">299000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">299000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CE-TI-1815" target="Family">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">6000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">6000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-CE-TI-1815" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CE-TI-1815" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">15000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">15000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CE-TI-1870" target="Deposit taking microfinance (MDI)">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">100000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">100000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-CE-TI-1870" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CE-TI-1870" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">7676.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">7676.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CE-TI-1874" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">6000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">6000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-CE-TI-1874" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CE-TI-1874" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">400.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">400.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CE-TI-2190" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">4000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">4000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CE-TI-2190" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CE-TI-2234" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CE-TI-2234" target="Investments/assets">
-  <data key="d3">Expense</data>
-  <data key="d4">250.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">250.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CN-CH-1683" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CN-CH-1683" target="Other significant expenses">
-  <data key="d3">Expense</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CN-KE-1684" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">7000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">7000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CN-KE-1684" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CN-KE-1686" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CN-KE-1686" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1600.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1600.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CN-KE-1790" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">900.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">900.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CN-KE-1790" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1200.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1200.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CN-KE-1804" target="Commercial bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">4000000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">4000000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-CN-KE-1804" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">100000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">100000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CN-KE-1804" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">600.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">600.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CN-KE-1811" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">7000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">7000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CN-KE-1811" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CN-KE-1812" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-CN-KE-1812" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CN-KE-1812" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">800.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">800.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CN-KE-1877" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">900.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">900.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CN-KE-1877" target="Maintenance, parts (non-labour maintenance costs)">
-  <data key="d3">Expense</data>
-  <data key="d4">1400.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1400.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CN-KE-1878" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2100.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2100.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CN-KE-1878" target="Non-staff labour (maintenance, casual labor etc...)">
-  <data key="d3">Expense</data>
-  <data key="d4">17000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">17000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CW-CH-1633" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CW-CH-1633" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CW-CH-1666" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-CW-CH-1666" target="Family">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">50000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">50000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-CW-CH-1666" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CW-CH-1666" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">11700.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">11700.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CW-CH-1765" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-CW-CH-1765" target="House/rent">
-  <data key="d3">Expense</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CW-CH-1765" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CW-CH-1766" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CW-CH-1766" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CW-CH-1778" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CW-CH-1778" target="Other cost">
-  <data key="d3">Expense</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CW-CH-1817" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">336.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">336.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-CW-CH-1817" target="Family">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">250000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">250000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-CW-CH-1817" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CW-CH-1817" target="Transport, freight and storage/warehousing">
-  <data key="d3">Expense</data>
-  <data key="d4">200.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">200.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CW-CH-1904" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CW-CH-1904" target="MFI">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">8000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">8000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-CW-CH-1904" target="School fees">
-  <data key="d3">Expense</data>
-  <data key="d4">1300.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1300.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CW-CH-1905" target="Food at home">
-  <data key="d3">Expense</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-CW-CH-1905" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">7000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">7000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-CW-CH-1905" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CW-CH-2195" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">18000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">18000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-CW-CH-2195" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-CW-CH-2195" target="Wages/salaries workers">
-  <data key="d3">Expense</data>
-  <data key="d4">15000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">15000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-MO-KE-2183" target="Commercial bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-MO-KE-2183" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-MO-KE-2183" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">600.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">600.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-MO-TI-1862" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1800.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1800.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-MO-TI-1862" target="Transport, freight and storage/warehousing">
-  <data key="d3">Expense</data>
-  <data key="d4">300.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">300.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-NO-TI-1757" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">8000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">8000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-NO-TI-1757" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">900.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">900.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-NO-TI-1757" target="Transport, freight and storage/warehousing">
-  <data key="d3">Expense</data>
-  <data key="d4">200.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">200.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-NO-TI-1798" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-NO-TI-1798" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">4000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">4000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-NO-TI-1800" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1200.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1200.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-NO-TI-1800" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1800.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1800.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-NO-TI-1873" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1099.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1099.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-NO-TI-1873" target="Professional services (accountants, recruitment services, advisors, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">400.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">400.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-SO-CH-2207" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">18000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">18000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-SO-CH-2207" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">28000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">28000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-SO-CH-2207" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-SO-CH-2207" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">600.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">600.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-SO-CH-2210" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-SO-CH-2210" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">12000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">12000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-SO-KE-1646" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">6500.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">6500.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-SO-KE-1646" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-SO-KE-1646" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-SO-KE-2222" target="Employee">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">5700.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">5700.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="AD-SO-KE-2222" target="Family">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">150000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">150000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="AD-SO-KE-2222" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">4000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">4000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-SO-KE-2222" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">2500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">2500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-WE-CH-1858" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-WE-CH-1858" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">7000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">7000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-WE-CH-1859" target="Clothing and shoes">
-  <data key="d3">Expense</data>
-  <data key="d4">6000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">6000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-WE-CH-1859" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">900.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">900.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-WE-KE-1710" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">5400.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">5400.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-WE-KE-1710" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">895.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">895.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-WE-KE-1827" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">450.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">450.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-WE-KE-1827" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">490.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">490.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="AD-WE-KE-1832" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="AD-WE-KE-1832" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1918" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">200.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">200.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1918" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1918" target="MFI">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">100000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">100000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1918" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1920" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1920" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">8000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">8000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1920" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">400.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">400.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1920" target="Supplier">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1930" target="Family">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">200000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">200000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1930" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">5000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">5000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1930" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1910.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1910.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1930" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1950.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1950.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1947" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1947" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">400000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">400000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1947" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2800.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2800.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1947" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1948" target="Friend">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">7900.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">7900.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1948" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">200.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">200.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1948" target="Informal savings group (used for business, VSLA, Equb, Edir …)">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">30000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">30000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1948" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">300.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">300.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1949" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1949" target="Government bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">666000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">666000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1949" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">0.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">0.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1949" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">2565.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">2565.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1951" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1951" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">370.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">370.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1956" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">1093.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">1093.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1956" target="Deposit taking microfinance (MDI)">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">40000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">40000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1956" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">29800.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">29800.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1956" target="Wages/salaries workers">
-  <data key="d3">Expense</data>
-  <data key="d4">650.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">650.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1957" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1957" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">4662.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">4662.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1957" target="MFI">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">250000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">250000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1957" target="Wages/salaries workers">
-  <data key="d3">Expense</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1959" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1959" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">738.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">738.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1959" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">700.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">700.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1959" target="Vendor">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">11600.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">11600.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1960" target="Family">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1960" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">91050.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">91050.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1960" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">8500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">8500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-1960" target="Vendor">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">50000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">50000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-1967" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-1967" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">2969.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">2969.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-1967" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">600.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">600.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-2246" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">40000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">40000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-2246" target="Maintenance, parts (non-labour maintenance costs)">
-  <data key="d3">Expense</data>
-  <data key="d4">200.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">200.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-2332" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">400.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">400.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="DD-ET-2332" target="Family">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">950000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">950000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="DD-ET-2332" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1800.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1800.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="DD-ET-2332" target="Running costs (cleaning products, drinking water, coffee/tea, toilet paper...)">
-  <data key="d3">Expense</data>
-  <data key="d4">6050.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">6050.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2007" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">11000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">11000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2007" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">12000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">12000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2035" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2035" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">150.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">150.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2045" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2045" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">6500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">6500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2059" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">0.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">0.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="HR-AL-2059" target="Family">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">50000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">50000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="HR-AL-2059" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">0.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">0.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2059" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">20000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">20000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2075" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">4000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">4000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2075" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">50000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">50000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2090" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">9800.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">9800.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2090" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">40950.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">40950.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2090" target="Vendor">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">35000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">35000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="HR-AL-2107" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1500.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1500.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2107" target="Vendor">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">39000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">39000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="HR-AL-2107" target="Wages/salaries workers">
-  <data key="d3">Expense</data>
-  <data key="d4">1500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2115" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">200000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">200000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="HR-AL-2115" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">26000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">26000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2115" target="Transport, freight and storage/warehousing">
-  <data key="d3">Expense</data>
-  <data key="d4">17300.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">17300.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2132" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">800.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">800.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2132" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">3400.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3400.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2135" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2135" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2143" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2143" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">1300.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1300.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2151" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">400.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">400.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2151" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">3170.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3170.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2151" target="Vendor">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">219000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">219000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="HR-AL-2157" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="HR-AL-2157" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">200.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">200.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2157" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">62000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">62000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2157" target="Vendor">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">50000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">50000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="HR-AL-2169" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">25000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">25000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2169" target="Investments/assets">
-  <data key="d3">Expense</data>
-  <data key="d4">80.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">80.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-AL-2174" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">7000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">7000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-AL-2174" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">8000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">8000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-1995" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">18000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">18000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-1995" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">3500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">3500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-1996" target="Commercial bank">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">1000000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">1000000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="HR-DE-1996" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">25000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">25000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-1996" target="Rent">
-  <data key="d3">Expense</data>
-  <data key="d4">10500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">10500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2001" target="Fuel (for machines or vehicles)">
-  <data key="d3">Expense</data>
-  <data key="d4">1750.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1750.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2001" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">700.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">700.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2014" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">13000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">13000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2014" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">22000.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">22000.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2021" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">30000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">30000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2021" target="Other cost">
-  <data key="d3">Expense</data>
-  <data key="d4">6440.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">6440.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2080" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">135000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">135000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2080" target="Utility costs (electricity, water, …)">
-  <data key="d3">Expense</data>
-  <data key="d4">190.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">190.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2122" target="Customer">
-  <data key="d3">LoanGiven</data>
-  <data key="d4">10000.0</data>
-  <data key="d5">orange</data>
+  <data key="d4">LoanGiven</data>
+  <data key="d5">10000.0</data>
+  <data key="d6">orange</data>
 </edge>
 <edge source="HR-DE-2122" target="Fuel (for machines or vehicles)">
-  <data key="d3">Expense</data>
-  <data key="d4">600.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">600.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2122" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2123" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">80000.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">80000.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2123" target="Other cost">
-  <data key="d3">Expense</data>
-  <data key="d4">260.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">260.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2127" target="Friends">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">30000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">30000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="HR-DE-2127" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">150.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">150.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2127" target="Raw materials">
-  <data key="d3">Expense</data>
-  <data key="d4">350.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">350.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2128" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">200.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">200.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2128" target="Other cost">
-  <data key="d3">Expense</data>
-  <data key="d4">120.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">120.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2128" target="Vendor">
-  <data key="d3">LoanTaken</data>
-  <data key="d4">3000.0</data>
-  <data key="d5">blue</data>
+  <data key="d4">LoanTaken</data>
+  <data key="d5">3000.0</data>
+  <data key="d6">blue</data>
 </edge>
 <edge source="HR-DE-2171" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1100.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1100.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2171" target="Transport, freight and storage/warehousing">
-  <data key="d3">Expense</data>
-  <data key="d4">70.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">70.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="HR-DE-2244" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">1300.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">1300.0</data>
+  <data key="d6">green</data>
 </edge>
 <edge source="HR-DE-2244" target="Investments/assets">
-  <data key="d3">Expense</data>
-  <data key="d4">1500.0</data>
-  <data key="d5">red</data>
+  <data key="d4">Expense</data>
+  <data key="d5">1500.0</data>
+  <data key="d6">red</data>
 </edge>
 <edge source="DD-ET-2194" target="Income Source 1">
-  <data key="d3">Income</data>
-  <data key="d4">300.0</data>
-  <data key="d5">green</data>
+  <data key="d4">Income</data>
+  <data key="d5">300.0</data>
+  <data key="d6">green</data>
 </edge>
 </graph></graphml>
