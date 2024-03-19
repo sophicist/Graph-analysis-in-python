@@ -19,7 +19,7 @@ def Reader(link,sheet):
 # EThiopian analysis
 # aspirations
 aspire = Reader(ethiopia,"Aspirations and Strategy")
-pattern ="Firm ID|SFD-AST-010"
+
 
 class survey:
     def __init__(self,aspire):
@@ -57,6 +57,10 @@ challenges  = asp.yes_no_question("Firm ID|SFD-AST-080",['Firm ID'],"challenges"
 
 aspires = [yr_one,yr_five,measure,often,prices,challenges]
 final = pd.concat(aspires)
+
+# Access to technology
+
+
 print(final.shape)
 final.to_excel('Outputs/aspirations_ethiopia.xlsx')
 print('final------> saved to disk')
